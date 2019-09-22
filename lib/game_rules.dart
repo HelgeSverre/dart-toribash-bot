@@ -62,7 +62,9 @@ class GameRules {
     this.DQFlag = int.parse(ruleVars[28]);
     this.sumo = int.parse(ruleVars[8]) == 1 ? true : false;
     this.flags = Flag(int.parse(ruleVars[5]));
-    this.drawWinner = int.parse(ruleVars[33]);
+    if (ruleVars.length > 33) {
+      this.drawWinner = int.parse(ruleVars[33]);
+    }
     this.maxContacts = int.parse(ruleVars[32]);
     this.pointThreshold = int.parse(ruleVars[31]);
   }

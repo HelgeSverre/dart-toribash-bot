@@ -7,3 +7,4 @@ environment:
   sdk: '>=2.1.0 <3.0.0'
 dependencies:
   crypto: ^2.1.1+1
+  quiver: 2.0.5
