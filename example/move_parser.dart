@@ -1,27 +1,42 @@
+import 'dart:convert';
 import 'dart:io';
 
+import 'package:path/path.dart';
 import 'package:quiver/iterables.dart';
 import 'package:toribash_bot/game_rules.dart';
 import 'package:toribash_bot/joint_data.dart';
 
 void main() async {
-  Replay replay = Replay("data/easy-moves.rpl");
+  var dir = new Directory('data/replays');
 
-  print("Replay name: ${replay.name}");
-  print("Replay Creator: ${replay.author}");
-  print("Player 1: ${replay.playerOne}");
-  print("Player 2: ${replay.playerTwo}");
-  print("Mod: ${replay.rules.mod}");
-  print("".padLeft(80, "="));
-  replay.moves.forEach((move) => print(move));
-  print("".padLeft(80, "="));
+  dir.listSync().forEach((replayFile) {
+    var filename = basenameWithoutExtension(replayFile.path);
+    try {
+      Replay replay = Replay(replayFile.path);
+      String txt = replay.moves.map((list) => list.join(", ")).join("\n");
+      var file = File("data/moves/$filename.txt");
+      file.writeAsStringSync(txt, mode: FileMode.write);
+    } catch (e) {
+      // Ignore
+    }
+  });
+
+//  print("Replay name: ${replay.name}");
+//  print("Replay Creator: ${replay.author}");
+//  print("Player 1: ${replay.playerOne}");
+//  print("Player 2: ${replay.playerTwo}");
+//  print("Mod: ${replay.rules.mod}");
+//  print("".padLeft(80, "="));
+//  replay.moves.forEach((move) => print(move));
+//  print("".padLeft(80, "="));
 }
 
 class Replay {
   String name;
+  int version;
   File file;
   String replayData;
-  List moves = List();
+  List<List<String>> moves = List();
   GameRules rules;
   String author;
   String playerOne;
@@ -30,16 +45,34 @@ class Replay {
   Replay(String filePath) {
     file = File(filePath);
     replayData = file.readAsStringSync();
+
+    _parseVersion();
+
+    if (version == null || version < 10) {
+      throw "Replay versions under 10 is not supported atm.";
+    }
+
     _parseReplayInfo();
     _parseGameRules();
     _parseMoves();
+  }
+
+  _parseVersion() {
+    var lines = replayData.split("\n");
+    version = int.tryParse(lines
+        .firstWhere((line) => line.startsWith("VERSION"))
+        .split(" ")
+        .last
+        .trim());
   }
 
   _parseReplayInfo() {
     var lines = replayData.split("\n");
 
     name = lines
-        .firstWhere((line) => line.startsWith("FIGHTNAME"))
+        .firstWhere(
+          (line) => line.startsWith("FIGHTNAME") || line.startsWith("FIGHT 0"),
+        )
         .split(";")
         .last
         .trim();
@@ -74,23 +107,44 @@ class Replay {
   }
 
   _parseMoves() {
-    var joinLines = replayData
+    List<String> moveList = List();
+
+    replayData
         .split("\n")
-        .where((line) => line.startsWith("JOINT 0"))
         .map((line) => line.trim())
+        .where((line) => line.startsWith("FRAME") || line.startsWith("JOINT 0"))
+        .forEach((l) {
+      if (moveList.isNotEmpty &&
+          moveList.last.contains("FRAME") &&
+          l.startsWith("FRAME")) {
+        // Replace the last frame line, since it is invalid, no moves inbetween
+        moveList.removeLast();
+        moveList.add(l);
+      } else {
+        moveList.add(l);
+      }
+    });
+
+    List<List<String>> temp = moveList
+        .map((line) => line.startsWith("JOINT 0")
+            ? _parseMoveLine(line)
+            : _parseFrameLine(line))
         .toList();
 
-    List<List<String>> moveList = joinLines.map((line) {
-      return partition(line.split("; ").last.split(" "), 2)
-          .toList()
-          .map((move) {
-        return JointData.friendlyName(
-          JointData.getJoint(int.parse(move[0])),
-          JointData.getState(int.parse(move[1])),
-        );
-      }).toList();
-    }).toList();
+    temp.removeAt(0);
+    moves = temp;
+  }
 
-    moves = moveList;
+  List<String> _parseMoveLine(String line) {
+    return partition(line.split("; ").last.split(" "), 2).toList().map((move) {
+      return JointData.friendlyName(
+        JointData.getJoint(int.parse(move[0])),
+        JointData.getState(int.parse(move[1])),
+      );
+    }).toList();
+  }
+
+  List<String> _parseFrameLine(String line) {
+    return ["Wait until turnframe " + line.split(";").first.split(" ").last];
   }
 }

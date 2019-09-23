@@ -1,0 +1,7 @@
+Hold Neck, Hold Chest, Hold Lumbar, Hold Abs, Contract Right Pec, Raise Right Shoulder, Hold Right Elbow, Contract Left Pec, Raise Left Shoulder, Hold Left Elbow, Hold Right Wrist, Hold Left Wrist, Hold Right Glute, Hold Left Glute, Hold Right Hip, Hold Left Hip, Hold Right Knee, Hold Left Knee, Hold Right Ankle, Hold Left Ankle
+Wait until turnframe 20
+Lower Right Shoulder, Lower Left Shoulder
+Wait until turnframe 30
+Extend Right Hip, Extend Left Hip
+Wait until turnframe 460
+Left Rotate Chest, Raise Right Shoulder, Raise Left Shoulder, Contract Right Hip, Contract Left Hip

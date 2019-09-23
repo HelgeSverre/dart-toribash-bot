@@ -1,0 +1,31 @@
+Contract Neck, Hold Chest, Hold Lumbar, Relax Abs, Extend Right Pec, Hold Right Shoulder, Hold Right Elbow, Extend Left Pec, Hold Left Shoulder, Hold Left Elbow, Hold Right Wrist, Hold Left Wrist, Hold Right Glute, Hold Left Glute, Contract Right Hip, Contract Left Hip, Relax Right Knee, Relax Left Knee, Relax Right Ankle, Relax Left Ankle
+Wait until turnframe 10
+Hold Right Shoulder, Hold Left Shoulder
+Wait until turnframe 20
+Lower Right Shoulder, Lower Left Shoulder
+Wait until turnframe 168
+Contract Abs, Raise Right Shoulder, Raise Left Shoulder, Extend Right Hip, Extend Left Hip
+Wait until turnframe 172
+Extend Abs, Extend Right Elbow, Extend Left Elbow, Extend Right Wrist, Extend Left Wrist
+Wait until turnframe 182
+Extend Right Pec, Extend Left Pec, Relax Right Knee, Relax Left Knee, Extend Right Ankle, Extend Left Ankle
+Wait until turnframe 197
+Relax Abs, Contract Right Pec, Contract Right Elbow, Contract Left Pec, Contract Left Elbow, Contract Right Wrist, Contract Left Wrist, Extend Right Knee, Extend Left Knee, Relax Right Ankle, Relax Left Ankle
+Wait until turnframe 198
+Contract Neck, Extend Right Glute, Extend Left Glute, Contract Right Ankle, Contract Left Ankle
+Wait until turnframe 206
+Extend Abs
+Wait until turnframe 209
+Hold Right Pec, Lower Right Shoulder, Hold Left Pec, Lower Left Shoulder, Extend Right Wrist, Extend Left Wrist
+Wait until turnframe 499
+Contract Abs, Raise Right Shoulder, Extend Right Elbow, Raise Left Shoulder, Extend Left Elbow, Contract Right Hip, Contract Left Hip, Contract Right Knee, Contract Left Knee
+Wait until turnframe 538
+Left Rotate Chest, Contract Right Glute, Hold Left Glute, Extend Left Hip, Extend Right Knee, Contract Left Knee
+Wait until turnframe 545
+Left Rotate Chest, Right Bend Lumbar, Contract Abs, Lower Left Shoulder, Hold Left Glute, Extend Left Hip, Contract Right Knee, Extend Left Knee
+Wait until turnframe 549
+Relax Chest, Extend Left Glute, Hold Left Hip, Contract Right Knee
+Wait until turnframe 560
+Lower Right Shoulder
+Wait until turnframe 561
+Relax Neck, Relax Chest, Relax Lumbar, Relax Abs, Relax Right Pec, Relax Right Shoulder, Relax Right Elbow, Relax Left Pec, Relax Left Shoulder, Relax Left Elbow, Relax Right Wrist, Relax Left Wrist, Relax Right Glute, Relax Left Glute, Relax Right Hip, Relax Left Hip, Relax Right Knee, Relax Left Knee, Relax Right Ankle, Relax Left Ankle

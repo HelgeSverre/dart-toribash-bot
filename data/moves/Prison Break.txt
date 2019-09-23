@@ -1,0 +1,807 @@
+Hold Neck, Hold Chest, Hold Lumbar, Hold Abs, Hold Right Pec, Hold Right Shoulder, Hold Right Elbow, Hold Left Pec, Hold Left Shoulder, Hold Left Elbow, Hold Right Wrist, Hold Left Wrist, Hold Right Glute, Hold Left Glute, Hold Right Hip, Hold Left Hip, Hold Right Knee, Hold Left Knee, Hold Right Ankle, Hold Left Ankle
+Wait until turnframe 100
+Extend Neck
+Wait until turnframe 104
+Hold Neck, Contract Right Pec
+Wait until turnframe 106
+Relax Right Pec
+Wait until turnframe 110
+Contract Right Pec, Raise Right Shoulder, Contract Left Pec, Raise Left Shoulder, Contract Right Glute, Contract Right Hip, Relax Right Knee, Relax Right Ankle
+Wait until turnframe 120
+Hold Neck, Hold Chest, Hold Lumbar, Hold Abs, Contract Right Pec, Raise Right Shoulder, Hold Right Elbow, Hold Left Pec, Raise Left Shoulder, Hold Left Elbow, Hold Right Wrist, Hold Left Wrist, Contract Right Glute, Hold Left Glute, Contract Right Hip, Hold Left Hip, Relax Right Knee, Hold Left Knee, Contract Right Ankle, Hold Left Ankle
+Wait until turnframe 122
+Hold Right Pec, Raise Right Shoulder, Contract Left Pec, Relax Left Elbow, Relax Right Glute, Contract Right Hip, Extend Left Hip, Relax Right Knee, Contract Left Knee, Hold Right Ankle
+Wait until turnframe 126
+Hold Abs, Extend Right Knee
+Wait until turnframe 136
+Right Bend Lumbar, Contract Abs, Hold Right Pec, Contract Left Pec, Hold Left Elbow, Contract Right Glute, Hold Left Glute, Contract Left Hip, Hold Right Knee
+Wait until turnframe 145
+Contract Left Pec, Contract Left Wrist
+Wait until turnframe 155
+Extend Right Glute, Relax Left Knee
+Wait until turnframe 165
+Left Bend Lumbar, Extend Abs, Contract Right Pec, Lower Right Shoulder, Lower Left Shoulder, Hold Right Glute, Extend Right Hip, Extend Left Hip, Contract Right Knee, Contract Left Knee
+Wait until turnframe 175
+Left Bend Lumbar, Extend Right Pec, Contract Right Elbow, Extend Left Pec, Hold Left Elbow, Hold Left Wrist, Extend Right Ankle
+Wait until turnframe 183
+Hold Lumbar, Hold Right Pec, Hold Right Elbow, Hold Left Pec, Hold Left Shoulder, Hold Right Wrist, Hold Left Wrist
+Wait until turnframe 188
+Hold Right Shoulder, Hold Left Shoulder, Hold Left Elbow, Extend Left Wrist, Hold Left Glute, Hold Left Hip, Extend Right Knee, Extend Left Knee, Extend Left Ankle
+Wait until turnframe 192
+Contract Abs, Raise Right Shoulder, Contract Right Elbow, Extend Left Pec, Raise Left Shoulder, Contract Left Elbow, Hold Right Glute, Contract Right Hip, Contract Left Hip, Extend Right Knee, Relax Left Knee
+Wait until turnframe 194
+Extend Neck, Hold Chest, Extend Abs, Extend Right Pec, Relax Right Elbow, Hold Left Pec, Relax Left Elbow, Contract Right Glute, Extend Left Glute
+Wait until turnframe 202
+Extend Neck, Left Rotate Chest, Hold Lumbar, Contract Abs, Extend Right Pec, Raise Right Shoulder, Relax Right Elbow, Hold Left Pec, Raise Left Shoulder, Relax Left Elbow, Hold Right Wrist, Extend Left Wrist, Hold Right Glute, Hold Left Glute, Contract Right Hip, Contract Left Hip, Relax Right Knee, Relax Left Knee, Extend Right Ankle, Extend Left Ankle
+Wait until turnframe 212
+Left Rotate Chest, Extend Abs, Lower Right Shoulder, Extend Right Elbow, Extend Left Pec, Raise Left Shoulder, Extend Left Elbow, Contract Right Hip, Extend Left Hip
+Wait until turnframe 221
+Contract Right Pec, Relax Right Shoulder
+Wait until turnframe 224
+Contract Right Elbow, Contract Right Wrist
+Wait until turnframe 230
+Left Rotate Chest, Contract Right Pec, Hold Right Shoulder, Relax Right Elbow, Extend Left Pec, Lower Left Shoulder, Contract Left Elbow, Hold Right Wrist, Hold Right Hip, Hold Left Hip, Relax Left Knee
+Wait until turnframe 240
+Left Rotate Chest, Hold Abs, Extend Right Pec, Relax Right Elbow, Contract Left Pec, Relax Left Elbow, Relax Right Wrist, Extend Right Hip, Contract Left Hip
+Wait until turnframe 250
+Left Bend Lumbar, Extend Abs, Contract Right Pec, Hold Left Shoulder, Relax Right Knee, Contract Left Knee, Relax Right Ankle, Contract Left Ankle
+Wait until turnframe 259
+Right Bend Lumbar, Extend Right Pec, Lower Right Shoulder, Raise Left Shoulder, Hold Right Glute, Contract Left Glute, Extend Right Knee, Hold Left Knee, Relax Right Ankle
+Wait until turnframe 276
+Hold Neck, Hold Chest, Hold Lumbar, Hold Abs, Hold Right Pec, Hold Right Shoulder, Hold Right Elbow, Hold Left Pec, Hold Left Shoulder, Hold Left Elbow, Hold Right Wrist, Hold Left Wrist, Hold Right Glute, Hold Left Glute, Hold Right Hip, Extend Left Hip, Hold Right Knee, Relax Left Knee, Hold Right Ankle, Hold Left Ankle
+Wait until turnframe 283
+Extend Neck, Relax Chest, Relax Lumbar, Relax Abs, Contract Right Pec, Raise Right Shoulder, Relax Right Elbow, Relax Left Pec, Raise Left Shoulder, Relax Left Elbow, Relax Right Wrist, Relax Left Wrist, Relax Right Glute, Relax Left Glute, Extend Right Hip, Extend Left Hip, Relax Right Knee, Relax Left Knee, Relax Right Ankle, Relax Left Ankle
+Wait until turnframe 286
+Extend Neck, Relax Chest, Relax Lumbar, Relax Abs, Contract Right Pec, Raise Right Shoulder, Contract Right Elbow, Extend Left Pec, Hold Left Shoulder, Relax Left Elbow, Contract Right Wrist, Relax Left Wrist, Extend Right Glute, Extend Left Glute, Contract Right Hip, Extend Left Hip, Relax Right Knee, Relax Left Knee, Relax Right Ankle, Relax Left Ankle
+Wait until turnframe 296
+Contract Neck, Left Rotate Chest, Hold Lumbar, Extend Abs, Extend Right Pec, Raise Right Shoulder, Extend Right Elbow, Contract Left Pec, Raise Left Shoulder, Contract Left Elbow, Extend Right Wrist, Hold Left Wrist, Hold Right Glute, Hold Left Glute, Extend Right Hip, Extend Left Hip, Relax Right Knee, Hold Left Knee, Hold Right Ankle, Hold Left Ankle
+Wait until turnframe 316
+Hold Neck, Left Rotate Chest, Hold Lumbar, Hold Abs, Contract Right Pec, Relax Right Shoulder, Relax Right Elbow, Extend Left Pec, Hold Left Shoulder, Hold Left Elbow, Hold Right Wrist, Hold Left Wrist, Hold Right Glute, Hold Left Glute, Contract Right Hip, Extend Left Hip, Relax Right Knee, Hold Left Knee, Extend Right Ankle, Extend Left Ankle
+Wait until turnframe 326
+Right Bend Lumbar, Extend Abs, Hold Left Pec, Relax Left Shoulder, Relax Left Elbow, Extend Right Glute, Contract Left Hip, Hold Right Knee, Relax Left Knee
+Wait until turnframe 336
+Left Bend Lumbar, Relax Abs, Hold Right Shoulder, Hold Left Shoulder, Contract Right Glute, Contract Left Glute, Extend Left Hip, Hold Left Knee
+Wait until turnframe 346
+Extend Right Pec, Relax Right Shoulder, Contract Right Glute, Contract Left Glute, Hold Right Hip, Relax Left Hip, Hold Left Knee
+Wait until turnframe 356
+Left Rotate Chest, Hold Lumbar, Extend Abs, Extend Right Pec, Relax Left Pec, Contract Right Glute, Extend Left Glute, Extend Right Hip, Contract Left Hip, Contract Right Knee
+Wait until turnframe 361
+Hold Right Pec, Hold Left Pec, Hold Right Glute, Hold Right Hip, Hold Right Knee
+Wait until turnframe 371
+Extend Right Pec, Extend Left Pec, Hold Left Knee, Contract Left Ankle
+Wait until turnframe 381
+Hold Neck, Relax Chest, Hold Lumbar, Hold Abs, Relax Right Pec, Hold Right Shoulder, Hold Right Elbow, Relax Left Pec, Relax Left Shoulder, Hold Left Elbow, Hold Right Wrist, Hold Left Wrist, Extend Right Glute, Extend Left Glute, Contract Right Hip, Contract Left Hip, Relax Right Knee, Relax Left Knee, Hold Right Ankle, Hold Left Ankle
+Wait until turnframe 391
+Contract Neck, Hold Chest, Left Bend Lumbar, Extend Abs, Contract Right Pec, Raise Right Shoulder, Contract Left Pec, Raise Left Shoulder, Contract Right Hip, Extend Left Hip, Contract Right Ankle
+Wait until turnframe 401
+Relax Right Pec, Relax Right Shoulder, Relax Left Pec, Raise Left Shoulder, Relax Left Elbow, Relax Right Glute, Contract Left Glute, Hold Right Hip, Hold Right Ankle
+Wait until turnframe 403
+Hold Neck, Left Rotate Chest, Hold Lumbar, Hold Abs, Relax Right Pec, Hold Right Shoulder, Relax Right Elbow, Relax Left Pec, Raise Left Shoulder, Relax Left Elbow, Hold Right Wrist, Hold Left Wrist, Extend Right Glute, Hold Left Glute, Contract Right Hip, Hold Left Hip, Hold Right Knee, Hold Left Knee, Hold Right Ankle, Hold Left Ankle
+Wait until turnframe 409
+Hold Chest, Relax Right Pec, Extend Left Pec, Relax Right Glute, Relax Right Knee, Relax Left Knee
+Wait until turnframe 419
+Extend Right Pec, Relax Right Shoulder, Hold Right Elbow, Relax Left Shoulder, Hold Left Elbow
+Wait until turnframe 429
+Extend Left Knee
+Wait until turnframe 430
+Hold Right Glute, Extend Right Hip, Contract Left Hip, Relax Left Knee
+Wait until turnframe 440
+Right Bend Lumbar, Extend Abs, Contract Right Pec, Relax Right Shoulder, Contract Left Pec, Relax Left Shoulder, Contract Right Glute, Contract Left Glute, Relax Right Knee, Relax Left Knee, Contract Left Ankle
+Wait until turnframe 445
+Hold Lumbar, Hold Abs, Contract Right Glute, Hold Left Glute, Hold Left Knee
+Wait until turnframe 449
+Hold Chest, Relax Right Pec, Relax Right Shoulder, Relax Left Pec, Hold Left Shoulder, Hold Left Elbow, Contract Right Glute, Hold Left Glute, Hold Left Hip, Hold Right Knee
+Wait until turnframe 458
+Relax Chest, Hold Lumbar, Relax Right Pec, Relax Right Shoulder, Relax Right Elbow, Contract Left Pec, Relax Left Shoulder, Relax Left Elbow, Hold Right Glute, Contract Right Hip, Relax Right Knee, Hold Left Ankle
+Wait until turnframe 460
+Left Rotate Chest, Hold Right Pec, Relax Left Pec, Hold Left Shoulder, Hold Right Hip
+Wait until turnframe 469
+Contract Right Hip, Hold Right Knee
+Wait until turnframe 471
+Contract Right Pec, Raise Right Shoulder, Hold Right Elbow, Contract Left Pec, Hold Right Hip
+Wait until turnframe 480
+Hold Neck, Hold Chest, Hold Lumbar, Hold Abs, Extend Right Pec, Hold Right Shoulder, Contract Right Elbow, Extend Left Pec, Hold Left Shoulder, Contract Left Elbow, Relax Right Wrist, Hold Left Wrist, Hold Right Glute, Hold Left Glute, Hold Right Hip, Hold Left Hip, Hold Right Knee, Hold Left Knee, Hold Right Ankle, Hold Left Ankle
+Wait until turnframe 496
+Contract Right Pec, Contract Left Pec
+Wait until turnframe 507
+Hold Neck, Relax Chest, Relax Lumbar, Relax Abs, Relax Right Elbow, Relax Left Elbow, Relax Right Glute, Hold Left Glute, Relax Right Hip, Relax Left Hip, Relax Right Knee, Relax Left Knee, Relax Right Ankle
+Wait until turnframe 519
+Relax Lumbar, Extend Right Pec, Contract Right Elbow, Extend Left Pec, Contract Left Elbow, Hold Right Wrist, Hold Right Hip
+Wait until turnframe 530
+Extend Right Pec, Relax Right Elbow, Extend Left Pec, Relax Left Elbow
+Wait until turnframe 537
+Hold Neck, Relax Chest, Hold Lumbar, Extend Abs, Contract Right Pec, Relax Right Shoulder, Relax Right Elbow, Contract Left Pec, Hold Left Shoulder, Relax Left Elbow, Hold Right Wrist, Hold Left Wrist, Relax Right Glute, Relax Left Glute, Relax Right Hip, Hold Left Hip, Relax Right Knee, Relax Left Knee, Relax Right Ankle, Hold Left Ankle
+Wait until turnframe 548
+Contract Right Pec, Contract Left Pec
+Wait until turnframe 552
+Left Rotate Chest, Hold Right Pec, Relax Right Elbow, Relax Left Pec, Contract Right Glute, Extend Left Glute, Contract Right Hip, Hold Left Hip, Relax Right Knee, Hold Left Knee
+Wait until turnframe 558
+Hold Neck, Hold Chest, Hold Lumbar, Extend Abs, Relax Right Pec, Relax Right Shoulder, Relax Right Elbow, Relax Left Pec, Hold Left Shoulder, Relax Left Elbow, Hold Right Wrist, Hold Left Wrist, Contract Right Glute, Extend Left Glute, Contract Right Hip, Hold Left Hip, Relax Right Knee, Hold Left Knee, Hold Right Ankle, Hold Left Ankle
+Wait until turnframe 568
+Left Rotate Chest, Hold Lumbar, Contract Right Pec, Relax Right Shoulder, Extend Left Pec, Lower Left Shoulder, Contract Right Glute, Hold Left Glute, Contract Right Hip, Relax Left Hip, Relax Right Knee
+Wait until turnframe 569
+Extend Left Glute, Contract Right Hip, Extend Left Hip
+Wait until turnframe 576
+Hold Neck, Relax Chest, Hold Lumbar, Hold Abs, Hold Right Pec, Hold Right Shoulder, Hold Right Elbow, Relax Left Pec, Relax Left Shoulder, Hold Left Elbow, Hold Right Wrist, Hold Left Wrist, Hold Right Glute, Hold Left Glute, Relax Right Hip, Hold Left Hip, Relax Right Knee, Hold Left Knee, Hold Right Ankle, Hold Left Ankle
+Wait until turnframe 584
+Left Bend Lumbar, Hold Left Elbow, Extend Right Glute, Extend Left Glute, Contract Right Hip, Relax Left Hip, Relax Right Knee, Relax Left Knee, Extend Right Ankle, Relax Left Ankle
+Wait until turnframe 589
+Hold Left Shoulder, Hold Right Knee
+Wait until turnframe 594
+Hold Neck, Hold Chest, Hold Lumbar, Hold Abs, Relax Right Pec, Relax Right Shoulder, Relax Right Elbow, Relax Left Pec, Relax Left Shoulder, Relax Left Elbow, Hold Right Wrist, Hold Left Wrist, Hold Right Glute, Hold Left Glute, Hold Right Hip, Hold Left Hip, Hold Right Knee, Hold Left Knee, Hold Right Ankle, Hold Left Ankle
+Wait until turnframe 613
+Extend Neck, Left Rotate Chest, Relax Lumbar, Extend Abs, Extend Right Pec, Raise Right Shoulder, Relax Right Elbow, Extend Left Pec, Lower Left Shoulder, Relax Left Elbow, Hold Right Wrist, Relax Left Wrist, Extend Right Glute, Relax Left Glute, Contract Right Hip, Extend Left Hip, Extend Right Knee, Extend Left Knee, Extend Right Ankle, Extend Left Ankle
+Wait until turnframe 623
+Relax Neck, Hold Chest, Relax Lumbar, Relax Abs, Relax Right Pec, Raise Right Shoulder, Relax Right Elbow, Relax Left Pec, Raise Left Shoulder, Relax Left Elbow, Extend Right Wrist, Relax Left Wrist, Relax Right Glute, Relax Left Glute, Contract Right Hip, Relax Left Hip, Relax Right Knee, Relax Left Knee, Relax Right Ankle, Relax Left Ankle
+Wait until turnframe 640
+Hold Neck, Hold Chest, Relax Lumbar, Relax Abs, Relax Right Pec, Relax Right Shoulder, Relax Right Elbow, Relax Left Pec, Relax Left Shoulder, Relax Left Elbow, Relax Right Wrist, Relax Left Wrist, Relax Right Glute, Relax Left Glute, Relax Right Hip, Relax Left Hip, Relax Right Knee, Relax Left Knee, Relax Right Ankle, Relax Left Ankle
+Wait until turnframe 643
+Extend Neck
+Wait until turnframe 647
+Contract Neck
+Wait until turnframe 652
+Contract Neck, Relax Chest, Relax Lumbar, Relax Abs, Relax Right Pec, Relax Right Shoulder, Relax Right Elbow, Relax Left Pec, Relax Left Shoulder, Relax Left Elbow, Relax Right Wrist, Relax Left Wrist, Relax Right Glute, Relax Left Glute, Relax Right Hip, Relax Left Hip, Relax Right Knee, Relax Left Knee, Relax Right Ankle, Relax Left Ankle
+Wait until turnframe 653
+Contract Neck, Hold Chest, Relax Lumbar, Extend Abs, Hold Right Pec, Lower Right Shoulder, Relax Right Elbow, Hold Left Pec, Relax Left Shoulder, Relax Left Elbow, Hold Right Wrist, Hold Left Wrist, Contract Right Glute, Contract Left Glute, Extend Right Hip, Extend Left Hip, Relax Right Knee, Contract Left Knee, Extend Right Ankle, Extend Left Ankle
+Wait until turnframe 660
+Contract Neck, Relax Chest, Hold Lumbar, Extend Abs, Extend Right Pec, Relax Right Shoulder, Relax Right Elbow, Extend Left Pec, Relax Left Shoulder, Relax Left Elbow, Hold Right Wrist, Hold Left Wrist, Hold Right Glute, Contract Left Glute, Relax Right Hip, Relax Left Hip, Relax Right Knee, Contract Left Knee, Extend Right Ankle, Relax Left Ankle
+Wait until turnframe 670
+Hold Neck, Hold Chest, Hold Lumbar, Relax Abs, Relax Right Pec, Relax Right Shoulder, Hold Right Elbow, Relax Left Pec, Relax Left Shoulder, Relax Left Elbow, Hold Right Wrist, Hold Left Wrist, Relax Right Glute, Relax Left Glute, Relax Right Hip, Relax Left Hip, Relax Right Knee, Relax Left Knee, Relax Right Ankle, Hold Left Ankle
+Wait until turnframe 684
+Hold Neck, Relax Chest, Hold Lumbar, Hold Abs, Relax Right Pec, Relax Right Shoulder, Hold Right Elbow, Relax Left Pec, Hold Left Shoulder, Relax Left Elbow, Hold Right Wrist, Hold Left Wrist, Hold Right Glute, Hold Left Glute, Hold Right Hip, Hold Left Hip, Hold Right Knee, Hold Left Knee, Hold Right Ankle, Hold Left Ankle
+Wait until turnframe 698
+Hold Neck, Hold Chest, Hold Lumbar, Hold Abs, Hold Right Pec, Hold Right Shoulder, Hold Right Elbow, Hold Left Pec, Hold Left Shoulder, Hold Left Elbow, Hold Right Wrist, Hold Left Wrist, Hold Right Glute, Hold Left Glute, Contract Right Hip, Hold Left Hip, Hold Right Knee, Hold Left Knee, Hold Right Ankle, Hold Left Ankle
+Wait until turnframe 704
+Hold Neck, Hold Chest, Hold Lumbar, Hold Abs, Hold Right Pec, Hold Right Shoulder, Hold Right Elbow, Hold Left Pec, Hold Left Shoulder, Hold Left Elbow, Hold Right Wrist, Hold Left Wrist, Hold Right Glute, Hold Left Glute, Hold Right Hip, Hold Left Hip, Hold Right Knee, Hold Left Knee, Hold Right Ankle, Hold Left Ankle
+Wait until turnframe 712
+Hold Neck, Hold Chest, Hold Lumbar, Hold Abs, Hold Right Pec, Hold Right Shoulder, Hold Right Elbow, Hold Left Pec, Hold Left Shoulder, Hold Left Elbow, Hold Right Wrist, Hold Left Wrist, Hold Right Glute, Hold Left Glute, Hold Right Hip, Hold Left Hip, Hold Right Knee, Hold Left Knee, Hold Right Ankle, Hold Left Ankle
+Wait until turnframe 718
+Relax Neck, Left Rotate Chest, Relax Lumbar, Contract Abs, Extend Right Pec, Relax Right Shoulder, Relax Right Elbow, Extend Left Pec, Relax Left Shoulder, Relax Left Elbow, Relax Right Wrist, Relax Left Wrist, Relax Right Glute, Extend Left Glute, Contract Right Hip, Contract Left Hip, Relax Right Knee, Relax Left Knee, Relax Right Ankle, Relax Left Ankle
+Wait until turnframe 734
+Lower Right Shoulder, Contract Left Pec, Raise Left Shoulder, Hold Right Wrist, Extend Right Glute, Extend Left Glute
+Wait until turnframe 744
+Relax Neck, Relax Chest, Relax Lumbar, Relax Abs, Relax Right Pec, Relax Right Shoulder, Relax Right Elbow, Relax Left Pec, Relax Left Shoulder, Relax Left Elbow, Hold Right Wrist, Relax Left Wrist, Relax Right Glute, Relax Left Glute, Relax Right Hip, Relax Left Hip, Relax Right Knee, Relax Left Knee, Relax Right Ankle, Relax Left Ankle
+Wait until turnframe 754
+Hold Neck, Hold Chest, Hold Lumbar, Hold Abs, Relax Right Pec, Relax Right Shoulder, Hold Right Elbow, Relax Left Pec, Relax Left Shoulder, Relax Left Elbow, Hold Right Wrist, Hold Left Wrist, Contract Right Glute, Contract Left Glute, Contract Right Hip, Hold Left Hip, Relax Right Knee, Hold Left Knee, Hold Right Ankle, Hold Left Ankle
+Wait until turnframe 764
+Relax Neck, Relax Chest, Relax Lumbar, Relax Abs, Hold Right Pec, Raise Right Shoulder, Hold Right Elbow, Hold Left Pec, Raise Left Shoulder, Relax Left Elbow, Hold Right Wrist, Relax Left Wrist, Extend Right Glute, Relax Left Glute, Relax Right Hip, Relax Left Hip, Relax Right Knee, Relax Left Knee, Relax Right Ankle, Relax Left Ankle
+Wait until turnframe 791
+Relax Neck, Hold Chest, Left Bend Lumbar, Relax Abs, Contract Right Pec, Relax Right Shoulder, Relax Right Elbow, Contract Left Pec, Raise Left Shoulder, Relax Left Elbow, Relax Right Wrist, Relax Left Wrist, Relax Right Glute, Relax Left Glute, Relax Right Hip, Contract Left Hip, Relax Right Knee, Relax Left Knee, Relax Right Ankle, Relax Left Ankle
+Wait until turnframe 801
+Relax Neck, Left Rotate Chest, Left Bend Lumbar, Extend Abs, Contract Right Pec, Hold Right Shoulder, Hold Right Elbow, Contract Left Pec, Lower Left Shoulder, Relax Left Elbow, Relax Right Wrist, Relax Left Wrist, Extend Right Glute, Contract Left Glute, Relax Right Hip, Extend Left Hip, Relax Right Knee, Relax Left Knee, Extend Right Ankle, Extend Left Ankle
+Wait until turnframe 811
+Hold Neck, Relax Right Shoulder, Relax Right Elbow, Extend Left Pec, Hold Left Elbow, Hold Right Wrist, Extend Left Wrist, Relax Right Knee, Relax Left Knee, Contract Right Ankle
+Wait until turnframe 814
+Relax Right Shoulder, Hold Left Shoulder, Hold Left Elbow, Hold Left Knee
+Wait until turnframe 823
+Relax Right Shoulder, Contract Right Glute, Extend Left Hip, Relax Left Knee
+Wait until turnframe 830
+Contract Neck, Left Rotate Chest, Right Bend Lumbar, Extend Right Pec, Lower Right Shoulder, Hold Right Elbow, Contract Left Pec, Raise Left Shoulder, Contract Left Elbow, Contract Left Wrist, Hold Right Glute, Hold Left Glute, Extend Right Hip, Contract Left Hip, Relax Right Knee, Hold Left Knee, Contract Left Ankle
+Wait until turnframe 833
+Right Bend Lumbar, Lower Right Shoulder, Contract Left Pec, Raise Left Shoulder, Contract Left Elbow, Hold Right Glute
+Wait until turnframe 840
+Relax Left Pec, Extend Left Elbow, Contract Left Wrist, Contract Right Glute, Extend Left Glute
+Wait until turnframe 843
+Right Bend Lumbar, Hold Right Shoulder, Relax Left Pec, Relax Left Shoulder, Contract Left Wrist, Contract Right Glute, Extend Left Glute, Contract Left Hip, Relax Right Knee, Contract Left Knee, Extend Right Ankle, Hold Left Ankle
+Wait until turnframe 849
+Hold Neck, Left Rotate Chest, Right Bend Lumbar, Hold Abs, Extend Right Pec, Lower Right Shoulder, Relax Right Elbow, Hold Left Pec, Hold Left Shoulder, Relax Left Elbow, Hold Right Wrist, Relax Left Wrist, Contract Right Glute, Hold Left Glute, Extend Right Hip, Contract Left Hip, Extend Right Knee, Hold Left Knee, Hold Right Ankle, Hold Left Ankle
+Wait until turnframe 859
+Left Bend Lumbar, Relax Abs, Extend Right Pec, Lower Right Shoulder, Lower Left Shoulder, Contract Right Glute, Extend Left Glute, Extend Right Hip, Hold Left Hip, Extend Right Knee, Extend Right Ankle
+Wait until turnframe 863
+Left Rotate Chest, Left Bend Lumbar, Extend Abs, Contract Right Pec, Raise Right Shoulder, Hold Right Elbow, Extend Left Pec, Extend Right Glute, Extend Left Hip, Contract Right Knee
+Wait until turnframe 866
+Hold Lumbar, Hold Left Pec, Extend Left Hip, Relax Left Knee
+Wait until turnframe 869
+Left Bend Lumbar, Contract Abs, Raise Right Shoulder, Relax Right Elbow, Contract Left Pec, Hold Left Shoulder, Extend Right Hip, Extend Left Hip, Hold Right Knee, Extend Left Knee, Contract Right Ankle, Extend Left Ankle
+Wait until turnframe 875
+Extend Neck, Relax Lumbar, Relax Right Shoulder, Contract Right Elbow, Extend Left Pec, Contract Right Glute, Hold Left Glute, Extend Right Hip, Hold Right Knee, Hold Left Knee, Extend Right Ankle
+Wait until turnframe 886
+Right Bend Lumbar, Raise Right Shoulder, Relax Left Elbow, Hold Left Wrist, Contract Right Glute, Contract Left Glute, Contract Right Hip, Hold Left Hip, Relax Right Knee, Hold Left Knee, Contract Right Ankle
+Wait until turnframe 889
+Hold Left Hip, Relax Right Knee
+Wait until turnframe 892
+Extend Abs, Contract Right Hip, Hold Left Hip
+Wait until turnframe 901
+Extend Left Hip, Contract Right Knee, Hold Left Knee, Extend Left Ankle
+Wait until turnframe 905
+Hold Neck, Hold Chest, Left Bend Lumbar, Extend Abs, Hold Right Pec, Relax Right Shoulder, Relax Right Elbow, Extend Left Pec, Lower Left Shoulder, Relax Left Elbow, Hold Right Wrist, Hold Left Wrist, Extend Right Glute, Hold Left Glute, Contract Right Hip, Extend Left Hip, Hold Right Knee, Contract Left Knee, Hold Right Ankle, Hold Left Ankle
+Wait until turnframe 910
+Relax Right Shoulder, Hold Right Elbow, Hold Left Shoulder, Hold Left Hip, Relax Left Knee
+Wait until turnframe 920
+Relax Left Hip, Relax Left Knee, Relax Right Ankle
+Wait until turnframe 936
+Lower Right Shoulder, Relax Left Shoulder, Contract Right Glute, Contract Left Glute, Contract Left Hip, Extend Left Knee
+Wait until turnframe 940
+Hold Chest, Right Bend Lumbar, Extend Abs, Extend Right Pec, Hold Right Shoulder, Relax Left Pec, Lower Left Shoulder, Contract Left Elbow, Contract Right Glute, Relax Left Glute, Extend Right Hip, Hold Right Knee, Hold Left Knee, Extend Right Ankle
+Wait until turnframe 950
+Left Rotate Chest, Contract Left Pec, Hold Right Glute, Hold Left Glute, Hold Right Hip, Hold Left Hip, Relax Left Knee
+Wait until turnframe 953
+Extend Right Pec, Raise Right Shoulder, Raise Left Shoulder, Relax Left Elbow, Hold Right Glute, Hold Left Glute, Extend Right Hip, Contract Left Hip, Contract Right Knee, Contract Left Knee, Relax Right Ankle
+Wait until turnframe 954
+Relax Right Knee
+Wait until turnframe 960
+Extend Abs, Lower Right Shoulder, Extend Left Pec, Hold Left Shoulder, Extend Left Elbow, Hold Right Glute, Extend Left Glute, Contract Right Hip, Contract Left Hip, Contract Right Knee, Contract Right Ankle
+Wait until turnframe 967
+Left Rotate Chest, Hold Lumbar, Raise Right Shoulder, Extend Right Elbow, Extend Left Pec, Lower Left Shoulder, Contract Right Glute, Extend Right Hip, Extend Left Hip, Extend Right Knee, Relax Left Knee, Relax Right Ankle, Relax Left Ankle
+Wait until turnframe 969
+Right Bend Lumbar, Hold Right Glute
+Wait until turnframe 972
+Right Bend Lumbar, Extend Right Pec, Raise Right Shoulder, Relax Right Elbow, Extend Left Pec, Hold Left Shoulder, Hold Right Glute, Extend Left Glute, Extend Right Hip, Relax Left Hip, Hold Left Knee, Extend Left Ankle
+Wait until turnframe 981
+Left Rotate Chest, Left Bend Lumbar, Contract Right Pec, Relax Right Shoulder, Relax Left Shoulder, Hold Left Elbow, Contract Right Glute, Hold Left Glute, Extend Left Hip, Relax Left Knee
+Wait until turnframe 987
+Left Rotate Chest, Left Bend Lumbar, Contract Right Pec, Lower Right Shoulder, Lower Left Shoulder, Contract Right Glute, Contract Left Glute, Extend Right Hip, Contract Left Hip, Contract Right Knee, Relax Left Knee, Hold Left Ankle
+Wait until turnframe 996
+Left Rotate Chest, Relax Right Shoulder, Contract Right Elbow, Relax Left Pec, Relax Left Shoulder, Contract Right Hip, Extend Left Hip, Hold Left Knee
+Wait until turnframe 1001
+Extend Right Knee
+Wait until turnframe 1002
+Left Rotate Chest, Right Bend Lumbar, Contract Right Pec, Raise Right Shoulder, Relax Right Elbow, Contract Left Pec, Contract Right Glute, Contract Left Glute, Contract Right Hip, Hold Left Hip, Relax Right Knee, Hold Left Knee
+Wait until turnframe 1012
+Hold Right Pec, Relax Right Shoulder, Hold Left Pec, Contract Right Glute, Contract Left Glute, Hold Right Hip, Contract Left Hip, Relax Right Knee, Relax Left Knee
+Wait until turnframe 1022
+Relax Right Hip, Hold Left Hip
+Wait until turnframe 1032
+Extend Right Glute, Extend Right Hip
+Wait until turnframe 1042
+Left Rotate Chest, Relax Right Pec, Hold Right Elbow, Extend Left Glute, Contract Left Hip, Contract Right Ankle
+Wait until turnframe 1062
+Left Rotate Chest, Extend Right Pec, Raise Right Shoulder, Contract Left Pec, Extend Right Hip, Contract Left Hip, Hold Right Knee, Hold Left Knee, Extend Right Ankle, Relax Left Ankle
+Wait until turnframe 1065
+Relax Chest, Contract Right Hip, Extend Left Hip, Relax Left Knee
+Wait until turnframe 1068
+Hold Chest, Hold Lumbar, Relax Right Pec, Hold Right Shoulder, Relax Right Elbow, Hold Left Pec, Relax Left Elbow, Contract Left Glute, Extend Left Hip, Hold Left Knee, Extend Left Ankle
+Wait until turnframe 1074
+Hold Neck, Hold Chest, Hold Lumbar, Hold Abs, Extend Right Pec, Hold Right Shoulder, Hold Right Elbow, Extend Left Pec, Relax Left Shoulder, Relax Left Elbow, Hold Right Wrist, Hold Left Wrist, Hold Right Glute, Hold Left Glute, Contract Right Hip, Extend Left Hip, Extend Right Knee, Relax Left Knee, Hold Right Ankle, Extend Left Ankle
+Wait until turnframe 1077
+Hold Chest, Contract Right Pec, Contract Right Elbow, Hold Left Pec, Hold Left Shoulder, Relax Left Elbow, Hold Right Knee, Contract Left Knee, Hold Right Ankle
+Wait until turnframe 1079
+Hold Right Elbow, Relax Left Elbow
+Wait until turnframe 1081
+Left Bend Lumbar, Contract Right Pec, Extend Left Pec, Lower Left Shoulder, Hold Left Elbow, Extend Left Hip, Relax Left Knee
+Wait until turnframe 1091
+Left Rotate Chest, Relax Right Pec, Hold Left Pec, Hold Left Shoulder
+Wait until turnframe 1095
+Hold Chest, Extend Abs, Contract Right Glute, Extend Left Glute, Relax Right Knee
+Wait until turnframe 1096
+Contract Right Glute, Contract Left Glute, Relax Right Hip, Relax Right Knee, Hold Left Knee
+Wait until turnframe 1100
+Relax Left Shoulder, Relax Left Elbow, Hold Right Glute, Hold Left Glute, Contract Right Hip, Relax Left Knee
+Wait until turnframe 1105
+Hold Lumbar, Relax Right Pec, Hold Left Pec, Hold Left Elbow, Contract Right Glute, Extend Left Glute, Extend Right Hip, Contract Left Hip, Extend Left Knee
+Wait until turnframe 1111
+Right Bend Lumbar, Extend Right Pec, Contract Left Pec, Hold Right Glute, Hold Left Glute, Relax Right Knee, Hold Left Knee
+Wait until turnframe 1121
+Hold Lumbar, Relax Right Pec, Relax Left Pec, Hold Left Shoulder, Relax Left Elbow, Hold Right Glute, Extend Left Glute, Hold Right Hip, Relax Left Hip, Relax Right Knee, Relax Left Knee
+Wait until turnframe 1127
+Left Rotate Chest, Hold Left Elbow
+Wait until turnframe 1130
+Hold Chest, Contract Left Pec, Relax Left Shoulder, Contract Left Hip, Hold Left Knee
+Wait until turnframe 1140
+Hold Left Shoulder, Contract Right Hip, Extend Left Hip, Extend Right Knee, Hold Left Knee
+Wait until turnframe 1144
+Hold Chest, Hold Lumbar, Contract Right Pec, Extend Left Pec, Contract Right Glute, Contract Left Glute, Relax Right Knee, Relax Left Knee
+Wait until turnframe 1147
+Hold Right Glute, Hold Left Glute, Contract Left Knee
+Wait until turnframe 1149
+Relax Left Pec, Relax Right Hip, Hold Right Knee, Hold Left Knee
+Wait until turnframe 1157
+Extend Left Pec, Hold Left Elbow, Contract Right Glute, Contract Left Glute, Contract Right Hip
+Wait until turnframe 1162
+Hold Right Pec, Relax Right Elbow, Relax Left Shoulder, Relax Left Elbow, Hold Right Glute, Hold Left Glute, Hold Left Hip
+Wait until turnframe 1167
+Relax Right Hip, Contract Left Hip, Relax Right Knee, Relax Left Knee
+Wait until turnframe 1172
+Extend Right Hip, Relax Right Knee, Contract Left Ankle
+Wait until turnframe 1176
+Extend Right Pec, Relax Right Shoulder, Relax Left Pec, Hold Left Shoulder, Contract Right Hip, Hold Right Knee, Hold Left Ankle
+Wait until turnframe 1181
+Extend Right Hip, Relax Right Knee
+Wait until turnframe 1185
+Extend Right Glute, Hold Right Knee
+Wait until turnframe 1189
+Hold Right Glute, Relax Right Knee, Extend Right Ankle
+Wait until turnframe 1192
+Raise Right Shoulder, Relax Right Glute, Extend Right Hip, Hold Left Hip, Contract Right Knee
+Wait until turnframe 1194
+Relax Right Shoulder, Hold Left Shoulder, Hold Right Glute, Hold Right Hip, Relax Right Knee
+Wait until turnframe 1201
+Hold Right Shoulder, Relax Right Hip, Hold Left Hip, Hold Left Knee
+Wait until turnframe 1208
+Contract Right Pec, Relax Right Shoulder, Extend Left Pec, Relax Left Shoulder, Contract Right Hip, Extend Left Hip, Relax Left Knee
+Wait until turnframe 1218
+Contract Right Hip, Extend Right Knee, Contract Left Knee
+Wait until turnframe 1219
+Hold Lumbar, Extend Abs, Contract Right Hip, Relax Right Knee, Hold Left Knee, Extend Left Ankle
+Wait until turnframe 1227
+Relax Right Pec, Hold Right Shoulder, Hold Right Hip, Relax Left Hip, Hold Right Knee
+Wait until turnframe 1231
+Relax Right Hip, Hold Left Hip, Hold Right Knee, Relax Left Knee, Contract Right Ankle
+Wait until turnframe 1241
+Relax Right Shoulder, Hold Right Hip, Hold Right Knee, Hold Right Ankle
+Wait until turnframe 1251
+Hold Right Hip, Hold Left Hip, Hold Right Knee
+Wait until turnframe 1261
+Extend Right Pec, Lower Right Shoulder, Contract Left Pec, Extend Right Hip, Contract Left Hip, Hold Right Knee
+Wait until turnframe 1265
+Relax Right Shoulder, Relax Right Elbow, Hold Left Shoulder, Contract Left Glute, Hold Right Knee
+Wait until turnframe 1273
+Right Bend Lumbar, Extend Right Pec, Hold Right Shoulder, Hold Right Elbow, Relax Left Pec, Relax Left Shoulder, Hold Right Glute, Hold Left Glute, Contract Left Hip, Relax Right Knee, Contract Left Ankle
+Wait until turnframe 1283
+Left Rotate Chest, Contract Left Pec, Relax Right Glute, Hold Right Hip, Hold Left Hip, Relax Right Knee, Hold Left Knee
+Wait until turnframe 1284
+Hold Chest, Hold Left Knee
+Wait until turnframe 1294
+Relax Lumbar, Hold Left Shoulder, Relax Right Glute, Relax Right Hip
+Wait until turnframe 1304
+Extend Right Hip, Hold Left Ankle
+Wait until turnframe 1308
+Relax Right Hip
+Wait until turnframe 1316
+Hold Chest, Contract Abs, Relax Right Pec, Relax Right Elbow, Hold Left Elbow, Hold Right Glute, Contract Right Hip, Hold Left Hip, Relax Right Knee, Relax Left Knee, Hold Right Ankle
+Wait until turnframe 1326
+Relax Neck, Left Rotate Chest, Hold Lumbar, Hold Right Pec, Hold Left Pec, Relax Left Elbow, Hold Right Glute, Hold Left Glute, Extend Left Hip, Hold Right Ankle, Extend Left Ankle
+Wait until turnframe 1336
+Contract Neck, Contract Right Pec, Extend Left Pec, Hold Left Knee
+Wait until turnframe 1345
+Contract Neck, Left Rotate Chest, Hold Lumbar, Hold Abs, Extend Right Pec, Raise Right Shoulder, Relax Right Elbow, Contract Left Pec, Hold Left Shoulder, Hold Left Elbow, Hold Right Wrist, Hold Left Wrist, Hold Right Glute, Hold Left Glute, Contract Right Hip, Extend Left Hip, Relax Right Knee, Relax Left Knee, Hold Right Ankle, Hold Left Ankle
+Wait until turnframe 1347
+Relax Right Shoulder
+Wait until turnframe 1350
+Extend Neck, Left Rotate Chest, Left Bend Lumbar, Contract Right Pec, Relax Right Shoulder, Extend Left Pec, Contract Left Glute, Extend Right Hip, Contract Left Hip, Hold Right Knee, Extend Right Ankle
+Wait until turnframe 1357
+Hold Chest, Right Bend Lumbar, Extend Right Pec, Hold Right Shoulder, Hold Right Elbow, Contract Left Pec, Relax Left Shoulder, Relax Left Elbow, Hold Left Glute, Extend Right Hip, Relax Left Hip, Relax Right Knee, Hold Left Knee, Relax Left Ankle
+Wait until turnframe 1367
+Left Rotate Chest, Hold Lumbar, Relax Right Pec, Lower Right Shoulder, Hold Right Elbow, Relax Right Wrist, Contract Left Glute, Contract Left Hip
+Wait until turnframe 1376
+Hold Chest, Right Bend Lumbar, Hold Right Pec, Relax Right Shoulder, Relax Right Elbow, Extend Left Pec, Relax Left Shoulder, Relax Right Glute, Hold Left Glute, Relax Right Hip, Extend Left Hip, Hold Right Knee, Contract Left Knee, Extend Left Ankle
+Wait until turnframe 1386
+Left Bend Lumbar, Hold Left Pec, Contract Right Hip, Extend Left Hip, Relax Left Knee
+Wait until turnframe 1391
+Hold Neck, Hold Chest, Hold Lumbar, Hold Abs, Hold Right Pec, Relax Right Shoulder, Relax Right Elbow, Hold Left Pec, Relax Left Shoulder, Relax Left Elbow, Hold Right Wrist, Hold Left Wrist, Hold Right Glute, Hold Left Glute, Contract Right Hip, Extend Left Hip, Relax Right Knee, Relax Left Knee, Hold Right Ankle, Hold Left Ankle
+Wait until turnframe 1395
+Extend Right Pec, Contract Left Pec, Hold Right Hip, Hold Left Hip, Hold Right Knee, Hold Left Knee
+Wait until turnframe 1405
+Hold Neck, Hold Chest, Hold Lumbar, Hold Abs, Hold Right Pec, Hold Right Shoulder, Hold Right Elbow, Hold Left Pec, Relax Left Shoulder, Relax Left Elbow, Hold Right Wrist, Hold Left Wrist, Hold Right Glute, Hold Left Glute, Hold Right Hip, Hold Left Hip, Hold Right Knee, Hold Left Knee, Hold Right Ankle, Hold Left Ankle
+Wait until turnframe 1415
+Lower Right Shoulder, Relax Right Elbow
+Wait until turnframe 1417
+Relax Right Pec, Relax Right Shoulder
+Wait until turnframe 1426
+Contract Right Pec
+Wait until turnframe 1433
+Contract Neck, Hold Chest, Hold Lumbar, Hold Abs, Hold Right Pec, Hold Right Shoulder, Hold Right Elbow, Hold Left Pec, Hold Left Shoulder, Hold Left Elbow, Hold Right Wrist, Hold Left Wrist, Relax Right Glute, Hold Left Glute, Relax Right Hip, Hold Left Hip, Relax Right Knee, Hold Left Knee, Hold Right Ankle, Hold Left Ankle
+Wait until turnframe 1448
+Left Rotate Chest, Extend Right Pec, Relax Right Shoulder, Contract Left Pec, Relax Left Elbow, Extend Left Glute, Relax Left Hip
+Wait until turnframe 1451
+Extend Left Pec, Relax Left Glute
+Wait until turnframe 1471
+Hold Neck, Hold Right Pec, Contract Left Pec, Contract Right Hip
+Wait until turnframe 1475
+Hold Neck, Left Rotate Chest, Hold Lumbar, Hold Abs, Contract Right Pec, Relax Right Shoulder, Hold Right Elbow, Contract Left Pec, Hold Left Shoulder, Hold Left Elbow, Hold Right Wrist, Hold Left Wrist, Relax Right Glute, Extend Left Glute, Contract Right Hip, Hold Left Hip, Relax Right Knee, Hold Left Knee, Relax Right Ankle, Hold Left Ankle
+Wait until turnframe 1483
+Hold Neck, Hold Chest, Hold Lumbar, Hold Abs, Hold Right Pec, Hold Right Shoulder, Relax Right Elbow, Hold Left Pec, Hold Left Shoulder, Relax Left Elbow, Hold Right Wrist, Hold Left Wrist, Hold Right Glute, Hold Left Glute, Hold Right Hip, Hold Left Hip, Hold Right Knee, Hold Left Knee, Hold Right Ankle, Hold Left Ankle
+Wait until turnframe 1495
+Extend Neck, Left Rotate Chest, Relax Right Pec, Relax Left Pec, Lower Left Shoulder, Extend Left Elbow, Hold Right Glute, Contract Left Glute, Contract Right Hip, Contract Left Hip, Hold Right Knee, Extend Left Knee, Extend Left Ankle
+Wait until turnframe 1496
+Relax Neck, Hold Chest, Left Bend Lumbar, Extend Right Pec, Hold Right Shoulder, Hold Right Elbow, Relax Left Pec, Hold Left Shoulder, Extend Left Elbow, Relax Left Wrist, Contract Right Glute, Contract Left Glute, Contract Left Hip, Hold Left Ankle
+Wait until turnframe 1502
+Hold Neck, Left Rotate Chest, Hold Lumbar, Hold Abs, Extend Right Pec, Hold Right Shoulder, Relax Right Elbow, Hold Left Pec, Hold Left Shoulder, Relax Left Elbow, Hold Right Wrist, Hold Left Wrist, Hold Right Glute, Extend Left Glute, Extend Right Hip, Hold Left Hip, Hold Right Knee, Relax Left Knee, Extend Right Ankle, Relax Left Ankle
+Wait until turnframe 1515
+Hold Chest, Hold Right Pec, Relax Right Shoulder, Relax Left Pec, Hold Left Glute, Extend Right Hip, Relax Left Knee, Contract Left Ankle
+Wait until turnframe 1522
+Extend Abs, Hold Right Hip, Relax Right Knee, Hold Left Knee, Hold Left Ankle
+Wait until turnframe 1532
+Hold Abs, Relax Right Pec, Hold Left Pec, Relax Right Wrist, Hold Right Knee, Hold Right Ankle
+Wait until turnframe 1533
+Left Rotate Chest, Contract Right Pec, Hold Right Shoulder, Contract Right Elbow, Extend Left Pec, Raise Left Shoulder, Hold Left Elbow, Extend Right Wrist, Relax Left Wrist, Extend Right Glute, Contract Right Hip, Hold Left Hip
+Wait until turnframe 1543
+Raise Right Shoulder, Relax Right Elbow, Lower Left Shoulder, Extend Right Glute, Extend Left Glute, Hold Right Hip, Hold Left Hip
+Wait until turnframe 1555
+Relax Neck, Hold Left Pec, Hold Left Shoulder, Relax Left Elbow, Extend Left Wrist, Hold Left Glute, Contract Right Hip, Contract Left Hip, Hold Right Knee, Hold Left Knee
+Wait until turnframe 1564
+Relax Chest, Hold Lumbar, Extend Right Pec, Relax Right Shoulder, Hold Right Elbow, Hold Left Pec, Hold Left Shoulder, Hold Left Elbow, Hold Right Glute, Hold Left Glute, Extend Right Hip, Contract Right Knee, Hold Left Knee, Hold Left Ankle
+Wait until turnframe 1577
+Lower Right Shoulder, Relax Right Elbow, Lower Left Shoulder, Extend Left Elbow
+Wait until turnframe 1578
+Left Rotate Chest, Lower Left Shoulder, Relax Left Elbow, Relax Right Knee
+Wait until turnframe 1582
+Left Rotate Chest, Extend Abs, Contract Left Pec, Hold Left Elbow, Extend Right Glute, Hold Left Glute, Extend Right Hip, Extend Right Knee, Hold Left Knee, Extend Right Ankle
+Wait until turnframe 1584
+Hold Chest
+Wait until turnframe 1585
+Left Rotate Chest, Hold Right Pec, Hold Right Shoulder, Hold Left Shoulder, Extend Left Glute
+Wait until turnframe 1588
+Hold Chest, Contract Right Pec, Raise Right Shoulder, Relax Left Pec, Hold Right Glute, Hold Left Glute, Contract Right Hip, Hold Left Hip, Relax Right Knee, Hold Left Knee, Contract Right Ankle
+Wait until turnframe 1595
+Left Bend Lumbar, Contract Right Pec, Relax Right Shoulder, Hold Left Pec, Extend Left Hip
+Wait until turnframe 1605
+Hold Lumbar, Extend Abs, Relax Right Shoulder, Extend Left Elbow, Contract Left Glute, Contract Left Knee, Hold Right Ankle
+Wait until turnframe 1609
+Left Bend Lumbar, Extend Abs, Relax Right Shoulder, Contract Right Glute, Hold Left Glute, Hold Left Knee
+Wait until turnframe 1615
+Hold Chest, Hold Lumbar, Hold Right Shoulder, Contract Right Glute, Hold Left Glute, Hold Right Knee, Relax Left Knee, Contract Right Ankle
+Wait until turnframe 1621
+Relax Neck, Hold Chest, Hold Lumbar, Extend Abs, Contract Right Pec, Hold Right Shoulder, Relax Right Elbow, Hold Left Pec, Hold Left Shoulder, Hold Left Elbow, Extend Right Wrist, Extend Left Wrist, Hold Right Glute, Hold Left Glute, Contract Right Hip, Extend Left Hip, Hold Right Knee, Extend Left Knee, Contract Right Ankle, Hold Left Ankle
+Wait until turnframe 1622
+Contract Right Hip, Extend Left Hip, Relax Right Knee, Relax Left Knee
+Wait until turnframe 1624
+Hold Chest, Hold Lumbar, Extend Right Pec, Relax Right Shoulder, Relax Right Elbow, Contract Right Glute, Hold Left Glute, Contract Right Hip, Contract Left Hip, Relax Left Knee, Extend Left Ankle
+Wait until turnframe 1626
+Relax Right Shoulder, Contract Left Glute, Hold Left Knee
+Wait until turnframe 1629
+Lower Right Shoulder, Relax Right Elbow, Raise Left Shoulder, Extend Left Glute
+Wait until turnframe 1634
+Hold Neck, Hold Chest, Right Bend Lumbar, Contract Abs, Raise Right Shoulder, Relax Right Elbow, Contract Left Pec, Contract Right Glute, Extend Left Glute, Contract Right Hip, Contract Left Ankle
+Wait until turnframe 1643
+Right Bend Lumbar, Contract Abs, Contract Right Pec, Extend Right Elbow, Relax Left Pec, Hold Right Glute, Extend Left Glute, Contract Left Hip, Extend Left Knee, Relax Left Ankle
+Wait until turnframe 1647
+Relax Right Elbow, Hold Left Pec, Relax Left Knee
+Wait until turnframe 1651
+Contract Abs, Raise Right Shoulder, Contract Left Pec, Extend Right Hip, Contract Left Hip, Contract Right Knee
+Wait until turnframe 1663
+Hold Lumbar, Extend Abs, Relax Right Pec, Relax Right Shoulder, Relax Right Elbow, Extend Left Pec, Relax Left Shoulder, Relax Left Elbow, Hold Left Glute, Extend Left Hip, Hold Right Knee, Relax Left Knee, Extend Right Ankle, Extend Left Ankle
+Wait until turnframe 1670
+Left Rotate Chest, Contract Right Pec, Lower Left Shoulder, Hold Left Elbow
+Wait until turnframe 1674
+Hold Chest, Relax Right Shoulder, Lower Left Shoulder, Hold Left Elbow, Relax Left Glute, Relax Left Knee
+Wait until turnframe 1684
+Relax Chest, Left Bend Lumbar, Relax Right Shoulder, Extend Left Pec, Extend Right Glute, Hold Left Glute, Relax Right Hip, Hold Left Hip, Hold Right Ankle
+Wait until turnframe 1701
+Left Rotate Chest, Right Bend Lumbar, Contract Abs, Contract Right Pec, Hold Right Shoulder, Hold Right Elbow, Hold Left Shoulder, Extend Left Elbow, Contract Right Glute, Contract Left Glute, Contract Right Hip, Contract Left Hip, Relax Right Knee, Hold Left Knee, Contract Right Ankle, Contract Left Ankle
+Wait until turnframe 1711
+Left Rotate Chest, Right Bend Lumbar, Extend Right Pec, Raise Right Shoulder, Contract Left Pec, Contract Left Elbow, Contract Left Wrist, Hold Right Glute, Extend Left Glute, Hold Right Hip, Relax Right Knee, Relax Right Ankle, Relax Left Ankle
+Wait until turnframe 1718
+Contract Right Pec, Raise Right Shoulder, Relax Right Elbow, Lower Left Shoulder, Contract Left Elbow
+Wait until turnframe 1724
+Hold Right Shoulder, Relax Left Shoulder, Hold Left Elbow, Relax Left Wrist, Extend Right Glute, Hold Right Hip, Hold Right Knee, Hold Right Ankle
+Wait until turnframe 1729
+Hold Abs, Extend Right Pec, Lower Right Shoulder, Raise Left Shoulder, Contract Left Elbow, Hold Left Wrist, Extend Right Glute, Relax Right Hip, Contract Left Hip
+Wait until turnframe 1731
+Extend Left Elbow, Extend Left Wrist
+Wait until turnframe 1733
+Left Rotate Chest, Raise Left Shoulder, Extend Right Hip
+Wait until turnframe 1742
+Left Bend Lumbar, Extend Abs, Extend Right Pec, Relax Right Shoulder, Relax Left Shoulder, Relax Left Elbow, Contract Right Glute, Contract Left Glute, Contract Right Hip, Extend Left Hip, Hold Left Knee, Relax Right Ankle, Extend Left Ankle
+Wait until turnframe 1757
+Hold Neck, Hold Chest, Right Bend Lumbar, Hold Abs, Hold Right Pec, Hold Right Shoulder, Hold Right Elbow, Hold Left Pec, Relax Left Shoulder, Relax Left Elbow, Hold Right Wrist, Hold Left Wrist, Extend Right Glute, Relax Left Glute, Relax Right Hip, Hold Left Hip, Hold Right Knee, Hold Left Knee, Hold Right Ankle, Hold Left Ankle
+Wait until turnframe 1777
+Left Rotate Chest, Left Bend Lumbar, Relax Right Pec, Relax Right Shoulder, Extend Left Pec, Hold Left Shoulder, Contract Right Glute, Hold Left Glute, Contract Right Hip, Extend Left Hip, Relax Left Knee, Hold Left Ankle
+Wait until turnframe 1787
+Hold Lumbar, Contract Right Pec, Contract Left Pec, Lower Left Shoulder, Hold Left Elbow, Hold Right Glute, Hold Left Glute, Contract Right Hip, Contract Left Knee, Contract Right Ankle, Extend Left Ankle
+Wait until turnframe 1797
+Right Bend Lumbar, Extend Abs, Hold Right Shoulder, Extend Left Pec, Hold Left Shoulder, Extend Left Elbow, Contract Right Glute, Contract Left Glute, Extend Left Hip, Relax Left Knee, Contract Right Ankle
+Wait until turnframe 1800
+Left Bend Lumbar, Contract Right Pec, Raise Right Shoulder, Relax Right Elbow, Relax Right Wrist, Hold Left Glute, Extend Left Hip, Contract Left Knee
+Wait until turnframe 1810
+Hold Neck, Left Rotate Chest, Left Bend Lumbar, Extend Abs, Contract Right Pec, Relax Right Shoulder, Relax Right Elbow, Hold Left Pec, Raise Left Shoulder, Extend Left Elbow, Relax Right Wrist, Hold Left Wrist, Contract Right Glute, Contract Left Glute, Contract Right Hip, Hold Left Hip, Relax Right Knee, Relax Left Knee, Contract Right Ankle, Contract Left Ankle
+Wait until turnframe 1820
+Hold Neck, Left Rotate Chest, Left Bend Lumbar, Extend Abs, Contract Right Pec, Raise Right Shoulder, Relax Right Elbow, Hold Left Pec, Raise Left Shoulder, Extend Left Elbow, Relax Right Wrist, Hold Left Wrist, Contract Right Glute, Contract Left Glute, Extend Right Hip, Hold Left Hip, Relax Right Knee, Relax Left Knee, Contract Right Ankle, Contract Left Ankle
+Wait until turnframe 1826
+Hold Chest, Right Bend Lumbar, Contract Abs, Extend Right Pec, Lower Right Shoulder, Extend Right Elbow, Contract Left Pec, Relax Left Shoulder, Extend Right Wrist, Extend Right Glute, Contract Left Glute, Extend Left Hip, Contract Right Knee, Extend Left Knee, Relax Left Ankle
+Wait until turnframe 1836
+Left Rotate Chest, Hold Lumbar, Hold Abs, Hold Right Shoulder, Relax Left Shoulder, Relax Left Elbow, Contract Right Glute, Contract Left Hip, Hold Right Knee, Extend Left Knee, Extend Right Ankle, Contract Left Ankle
+Wait until turnframe 1846
+Left Rotate Chest, Extend Right Pec, Hold Right Elbow, Contract Left Pec, Relax Left Shoulder, Relax Left Knee, Relax Left Ankle
+Wait until turnframe 1856
+Hold Left Pec, Hold Left Shoulder, Hold Right Glute, Hold Left Glute, Extend Right Hip, Extend Left Hip, Relax Right Knee
+Wait until turnframe 1863
+Relax Chest, Hold Lumbar, Hold Right Shoulder, Contract Left Pec, Relax Left Shoulder, Contract Right Glute, Contract Left Glute, Contract Right Hip, Contract Left Hip, Hold Right Knee, Contract Left Knee
+Wait until turnframe 1867
+Hold Chest, Hold Lumbar, Extend Left Pec, Contract Right Glute, Extend Left Glute, Extend Right Hip, Extend Left Hip, Hold Left Knee, Extend Left Ankle
+Wait until turnframe 1868
+Left Rotate Chest, Left Bend Lumbar, Hold Left Pec, Extend Right Glute, Contract Right Hip, Hold Left Hip, Relax Left Knee
+Wait until turnframe 1877
+Contract Neck, Left Rotate Chest, Extend Left Pec
+Wait until turnframe 1881
+Contract Neck, Left Rotate Chest, Left Bend Lumbar, Contract Abs, Relax Right Pec, Lower Right Shoulder, Relax Right Elbow, Relax Left Pec, Relax Left Shoulder, Relax Left Elbow, Relax Right Wrist, Relax Left Wrist, Extend Right Glute, Extend Left Glute, Contract Right Hip, Contract Left Hip, Hold Right Knee, Relax Left Knee, Contract Right Ankle, Relax Left Ankle
+Wait until turnframe 1883
+Contract Left Glute, Relax Left Hip, Hold Left Knee
+Wait until turnframe 1907
+Hold Neck, Hold Chest, Hold Lumbar, Hold Abs, Relax Right Pec, Relax Right Shoulder, Hold Right Elbow, Hold Left Pec, Hold Left Shoulder, Hold Left Elbow, Hold Right Wrist, Hold Left Wrist, Relax Right Glute, Relax Left Glute, Relax Right Hip, Relax Left Hip, Hold Right Knee, Relax Left Knee, Hold Right Ankle, Hold Left Ankle
+Wait until turnframe 1920
+Left Rotate Chest, Left Bend Lumbar, Extend Abs, Contract Right Pec, Raise Right Shoulder, Extend Left Pec, Raise Left Shoulder, Extend Left Elbow, Extend Left Wrist, Contract Right Glute, Extend Left Glute, Extend Right Hip, Extend Left Hip, Hold Left Knee
+Wait until turnframe 1922
+Relax Left Shoulder, Extend Left Ankle
+Wait until turnframe 1930
+Left Rotate Chest, Right Bend Lumbar, Extend Right Pec, Relax Right Shoulder, Relax Right Elbow, Extend Left Pec, Relax Left Shoulder, Hold Right Glute, Hold Right Hip, Contract Left Hip
+Wait until turnframe 1936
+Left Rotate Chest, Right Bend Lumbar, Extend Right Pec, Lower Right Shoulder, Contract Right Elbow, Contract Left Pec, Relax Left Shoulder, Contract Left Elbow, Extend Left Wrist, Hold Right Glute, Hold Right Hip, Extend Left Knee, Contract Left Ankle
+Wait until turnframe 1937
+Left Rotate Chest, Extend Right Pec, Lower Right Shoulder, Contract Left Pec, Contract Left Wrist, Hold Right Glute, Extend Left Glute, Hold Right Hip, Hold Left Ankle
+Wait until turnframe 1941
+Contract Left Pec, Relax Left Shoulder, Contract Left Elbow, Hold Right Glute, Extend Left Glute, Extend Right Hip, Contract Left Knee, Extend Left Ankle
+Wait until turnframe 1946
+Lower Right Shoulder, Contract Left Pec, Raise Left Shoulder, Relax Left Elbow, Relax Left Wrist, Extend Right Glute, Hold Right Hip, Hold Left Hip, Relax Left Knee, Contract Left Ankle
+Wait until turnframe 1952
+Contract Left Pec, Raise Left Shoulder, Contract Right Hip, Contract Left Hip
+Wait until turnframe 1964
+Hold Neck
+Wait until turnframe 1965
+Left Rotate Chest, Left Bend Lumbar, Contract Right Pec, Raise Right Shoulder, Relax Right Elbow, Extend Left Pec, Raise Left Shoulder, Hold Left Elbow, Hold Left Wrist, Extend Right Glute, Extend Left Hip, Contract Left Knee
+Wait until turnframe 1970
+Relax Right Shoulder, Lower Left Shoulder, Contract Right Glute, Contract Left Glute
+Wait until turnframe 1980
+Raise Right Shoulder, Hold Left Pec, Hold Left Glute, Relax Left Knee, Relax Left Ankle
+Wait until turnframe 1990
+Contract Left Glute, Extend Left Knee
+Wait until turnframe 1994
+Right Bend Lumbar, Extend Right Pec, Relax Left Shoulder, Extend Right Knee, Contract Right Ankle
+Wait until turnframe 2001
+Left Rotate Chest, Lower Right Shoulder, Hold Right Elbow, Raise Left Shoulder, Extend Right Glute, Extend Left Glute, Extend Right Hip, Contract Left Hip, Contract Right Knee, Contract Left Knee
+Wait until turnframe 2011
+Left Rotate Chest, Relax Left Shoulder, Extend Right Ankle
+Wait until turnframe 2017
+Contract Left Pec, Hold Left Shoulder, Extend Left Glute, Contract Left Hip, Contract Right Knee
+Wait until turnframe 2023
+Hold Right Shoulder, Relax Left Shoulder, Relax Left Elbow, Contract Left Glute, Hold Left Hip, Extend Right Knee
+Wait until turnframe 2029
+Extend Right Glute, Hold Left Glute
+Wait until turnframe 2030
+Extend Neck, Left Rotate Chest, Left Bend Lumbar, Relax Right Pec, Contract Right Elbow, Extend Left Pec, Relax Left Elbow, Contract Right Glute, Extend Left Glute, Contract Right Hip, Extend Left Hip, Extend Left Ankle
+Wait until turnframe 2040
+Contract Right Glute, Contract Right Hip, Hold Left Hip, Relax Right Knee
+Wait until turnframe 2050
+Contract Right Pec, Raise Right Shoulder, Extend Right Elbow, Relax Right Wrist, Hold Right Glute, Contract Right Hip, Extend Left Hip, Relax Right Knee, Contract Right Ankle
+Wait until turnframe 2067
+Right Bend Lumbar, Raise Right Shoulder, Contract Left Pec, Raise Left Shoulder, Extend Right Wrist, Contract Right Hip, Contract Left Hip, Relax Right Knee, Contract Left Knee, Hold Right Ankle
+Wait until turnframe 2077
+Hold Neck, Left Rotate Chest, Hold Lumbar, Hold Abs, Contract Right Pec, Relax Right Shoulder, Hold Right Elbow, Contract Left Pec, Raise Left Shoulder, Hold Left Elbow, Hold Right Wrist, Hold Left Wrist, Contract Right Glute, Contract Left Glute, Extend Right Hip, Contract Left Hip, Contract Right Knee, Extend Left Knee, Hold Right Ankle, Extend Left Ankle
+Wait until turnframe 2081
+Left Rotate Chest, Right Bend Lumbar, Extend Right Pec, Hold Right Shoulder, Relax Right Elbow, Hold Left Pec, Relax Left Shoulder, Relax Right Glute, Relax Left Glute, Relax Right Knee, Hold Left Knee
+Wait until turnframe 2091
+Contract Right Glute, Contract Left Glute, Hold Right Hip
+Wait until turnframe 2101
+Left Rotate Chest, Extend Right Elbow, Extend Right Hip, Extend Right Knee, Relax Left Knee
+Wait until turnframe 2111
+Raise Left Shoulder, Hold Right Hip, Relax Right Knee
+Wait until turnframe 2118
+Hold Neck, Left Rotate Chest, Right Bend Lumbar, Relax Abs, Contract Right Pec, Lower Right Shoulder, Extend Right Elbow, Extend Left Pec, Raise Left Shoulder, Hold Left Elbow, Hold Right Wrist, Hold Left Wrist, Extend Right Glute, Hold Left Glute, Relax Right Hip, Extend Left Hip, Contract Right Knee, Contract Left Knee, Hold Right Ankle, Extend Left Ankle
+Wait until turnframe 2124
+Left Bend Lumbar, Hold Right Shoulder, Lower Left Shoulder, Extend Left Glute, Contract Right Hip
+Wait until turnframe 2134
+Extend Abs, Raise Right Shoulder, Contract Right Elbow, Contract Left Knee
+Wait until turnframe 2142
+Raise Right Shoulder, Hold Left Shoulder, Hold Right Glute, Extend Left Glute, Extend Left Hip, Relax Right Knee, Extend Left Knee, Extend Right Ankle, Relax Left Ankle
+Wait until turnframe 2144
+Relax Right Shoulder, Relax Right Elbow, Contract Left Glute, Extend Left Ankle
+Wait until turnframe 2150
+Contract Left Glute, Contract Left Hip
+Wait until turnframe 2160
+Relax Lumbar, Extend Right Pec, Hold Right Shoulder, Hold Right Elbow, Hold Left Knee
+Wait until turnframe 2170
+Hold Chest, Right Bend Lumbar, Hold Right Pec, Relax Left Elbow, Extend Right Hip
+Wait until turnframe 2180
+Left Rotate Chest, Extend Right Pec, Lower Right Shoulder, Contract Left Elbow, Contract Right Glute, Extend Left Glute
+Wait until turnframe 2190
+Left Rotate Chest, Raise Right Shoulder, Contract Left Pec, Hold Left Elbow, Hold Right Glute, Hold Left Glute
+Wait until turnframe 2196
+Hold Chest, Raise Left Shoulder, Relax Left Elbow
+Wait until turnframe 2198
+Relax Chest, Contract Left Pec, Hold Left Shoulder, Relax Left Elbow, Contract Right Glute, Contract Left Glute
+Wait until turnframe 2201
+Extend Abs, Relax Left Shoulder, Extend Right Glute, Hold Left Glute, Hold Right Hip, Relax Left Hip
+Wait until turnframe 2211
+Hold Neck, Hold Chest, Hold Lumbar, Hold Abs, Extend Right Pec, Relax Right Shoulder, Relax Right Elbow, Hold Left Pec, Relax Left Shoulder, Hold Left Elbow, Hold Right Wrist, Hold Left Wrist, Hold Right Glute, Hold Left Glute, Hold Right Hip, Hold Left Hip, Hold Right Knee, Hold Left Knee, Hold Right Ankle, Hold Left Ankle
+Wait until turnframe 2221
+Left Rotate Chest, Right Bend Lumbar, Extend Abs, Contract Right Pec, Extend Left Pec, Extend Right Glute, Extend Left Glute, Hold Right Hip
+Wait until turnframe 2226
+Hold Neck, Hold Chest, Hold Lumbar, Hold Abs, Relax Right Pec, Relax Right Shoulder, Relax Right Elbow, Relax Left Pec, Relax Left Shoulder, Hold Left Elbow, Hold Right Wrist, Hold Left Wrist, Hold Right Glute, Hold Left Glute, Contract Right Hip, Contract Left Hip, Relax Right Knee, Relax Left Knee, Hold Right Ankle, Hold Left Ankle
+Wait until turnframe 2227
+Contract Neck, Left Rotate Chest, Extend Abs, Contract Right Pec, Raise Right Shoulder, Extend Right Elbow, Contract Left Pec, Raise Left Shoulder, Hold Left Wrist, Extend Right Glute, Extend Left Glute, Extend Right Hip, Extend Left Hip, Extend Right Knee, Extend Left Knee, Contract Right Ankle
+Wait until turnframe 2231
+Hold Chest, Contract Right Pec, Hold Right Shoulder, Relax Right Elbow, Hold Left Pec, Contract Right Knee, Contract Left Knee
+Wait until turnframe 2238
+Hold Right Pec, Lower Right Shoulder, Contract Right Elbow, Hold Left Pec, Lower Left Shoulder, Relax Left Elbow, Hold Right Glute, Hold Left Glute, Relax Right Knee, Hold Left Knee, Extend Right Ankle, Extend Left Ankle
+Wait until turnframe 2248
+Hold Right Elbow, Hold Left Pec, Hold Right Knee, Hold Left Knee
+Wait until turnframe 2278
+Hold Right Shoulder, Relax Right Elbow, Hold Left Pec, Hold Left Shoulder
+Wait until turnframe 2288
+Hold Left Shoulder, Extend Left Hip
+Wait until turnframe 2298
+Contract Right Pec, Raise Right Shoulder, Contract Left Pec, Raise Left Shoulder, Hold Left Elbow, Extend Left Hip
+Wait until turnframe 2308
+Extend Right Pec, Relax Right Shoulder, Extend Left Pec, Relax Left Shoulder, Contract Left Hip, Hold Right Knee, Hold Left Knee
+Wait until turnframe 2318
+Hold Right Shoulder, Hold Left Shoulder
+Wait until turnframe 2328
+Hold Right Hip, Relax Left Knee, Contract Left Ankle
+Wait until turnframe 2338
+Relax Right Shoulder, Relax Left Shoulder, Hold Right Hip, Contract Left Hip, Relax Right Knee, Extend Left Knee
+Wait until turnframe 2339
+Relax Left Knee
+Wait until turnframe 2347
+Contract Right Pec, Contract Left Pec, Relax Left Shoulder, Contract Right Hip, Hold Left Hip
+Wait until turnframe 2357
+Raise Right Shoulder, Relax Right Elbow, Hold Left Pec, Lower Left Shoulder, Relax Left Elbow, Extend Left Hip, Relax Right Knee, Relax Left Knee, Extend Left Ankle
+Wait until turnframe 2361
+Hold Left Elbow, Hold Right Knee, Relax Left Knee
+Wait until turnframe 2369
+Relax Right Knee, Hold Left Knee, Contract Right Ankle
+Wait until turnframe 2373
+Relax Right Shoulder, Contract Right Elbow, Hold Right Knee, Hold Right Ankle
+Wait until turnframe 2375
+Hold Right Pec, Relax Right Elbow
+Wait until turnframe 2379
+Relax Right Pec, Hold Right Shoulder, Hold Right Elbow, Hold Right Hip, Contract Left Hip, Hold Left Knee
+Wait until turnframe 2382
+Hold Right Pec, Relax Right Shoulder, Hold Right Elbow, Relax Left Shoulder, Hold Right Hip, Relax Right Knee, Extend Left Knee, Contract Left Ankle
+Wait until turnframe 2384
+Contract Right Hip, Hold Left Knee, Hold Left Ankle
+Wait until turnframe 2385
+Extend Right Pec, Relax Right Shoulder, Extend Right Hip, Contract Right Knee, Relax Left Knee
+Wait until turnframe 2386
+Contract Right Glute, Relax Right Knee
+Wait until turnframe 2388
+Hold Right Glute, Relax Right Knee
+Wait until turnframe 2391
+Hold Right Knee
+Wait until turnframe 2401
+Relax Left Shoulder, Hold Left Knee, Relax Left Ankle
+Wait until turnframe 2411
+Contract Neck, Hold Chest, Hold Lumbar, Extend Abs, Hold Right Pec, Raise Right Shoulder, Relax Right Elbow, Hold Left Pec, Raise Left Shoulder, Hold Left Elbow, Hold Right Wrist, Hold Left Wrist, Hold Right Glute, Hold Left Glute, Contract Right Hip, Contract Left Hip, Relax Right Knee, Relax Left Knee, Hold Right Ankle, Contract Left Ankle
+Wait until turnframe 2415
+Hold Right Hip, Contract Left Hip, Relax Right Knee, Relax Left Knee, Extend Right Ankle
+Wait until turnframe 2417
+Contract Abs, Contract Right Hip, Extend Right Knee
+Wait until turnframe 2418
+Extend Right Hip, Extend Left Hip, Extend Right Knee, Contract Left Knee
+Wait until turnframe 2419
+Contract Abs, Extend Right Elbow, Contract Right Hip, Contract Left Hip, Relax Right Knee, Contract Left Knee, Contract Right Ankle
+Wait until turnframe 2429
+Left Bend Lumbar, Relax Right Pec, Relax Right Shoulder, Contract Left Pec, Extend Right Glute, Hold Left Glute, Extend Left Hip, Extend Right Knee
+Wait until turnframe 2439
+Extend Abs, Contract Right Pec, Lower Right Shoulder, Hold Left Pec, Hold Left Shoulder, Contract Right Knee, Relax Left Knee
+Wait until turnframe 2441
+Right Bend Lumbar, Contract Right Pec, Raise Right Shoulder, Hold Right Elbow, Contract Left Pec, Raise Left Shoulder, Extend Left Elbow, Extend Right Wrist, Extend Left Wrist, Extend Right Hip, Hold Left Knee, Extend Right Ankle, Extend Left Ankle
+Wait until turnframe 2448
+Hold Right Shoulder, Lower Left Shoulder
+Wait until turnframe 2458
+Relax Right Pec, Relax Right Shoulder, Hold Left Hip, Relax Right Knee, Hold Left Knee
+Wait until turnframe 2468
+Extend Right Pec, Raise Right Shoulder, Extend Left Pec, Hold Left Shoulder
+Wait until turnframe 2478
+Relax Right Shoulder, Relax Left Shoulder
+Wait until turnframe 2488
+Left Bend Lumbar, Hold Right Shoulder, Contract Right Glute, Relax Left Glute, Relax Right Hip, Hold Right Knee
+Wait until turnframe 2498
+Left Bend Lumbar, Hold Abs
+Wait until turnframe 2508
+Hold Lumbar, Contract Right Pec, Relax Right Shoulder, Contract Right Hip, Relax Left Knee
+Wait until turnframe 2528
+Hold Neck, Relax Right Shoulder, Relax Right Elbow, Relax Left Glute, Hold Right Hip, Relax Left Hip, Relax Right Knee
+Wait until turnframe 2529
+Hold Right Shoulder, Relax Left Shoulder, Extend Right Glute, Contract Left Glute, Extend Right Hip, Hold Left Hip, Relax Left Knee
+Wait until turnframe 2545
+Left Rotate Chest, Hold Right Shoulder, Hold Left Glute, Hold Right Hip, Relax Left Hip, Hold Right Knee, Hold Left Knee
+Wait until turnframe 2564
+Left Bend Lumbar, Contract Right Glute, Contract Left Glute, Relax Left Ankle
+Wait until turnframe 2574
+Hold Right Glute, Extend Left Glute, Relax Left Hip
+Wait until turnframe 2581
+Left Rotate Chest, Right Bend Lumbar, Contract Right Pec, Relax Right Shoulder, Hold Right Elbow, Contract Left Pec, Relax Left Shoulder, Hold Right Glute, Extend Left Glute, Hold Right Hip, Contract Left Hip, Relax Right Knee, Extend Right Ankle
+Wait until turnframe 2582
+Relax Lumbar, Relax Abs, Hold Right Pec, Hold Right Shoulder, Relax Right Elbow, Relax Left Shoulder, Hold Right Glute, Relax Right Knee
+Wait until turnframe 2587
+Right Bend Lumbar, Extend Right Pec, Extend Left Pec, Relax Left Shoulder, Hold Right Glute, Extend Right Hip, Contract Right Ankle, Contract Left Ankle
+Wait until turnframe 2592
+Left Bend Lumbar, Hold Right Shoulder, Extend Left Pec, Relax Left Shoulder, Contract Left Wrist, Hold Right Glute, Extend Left Glute, Relax Right Hip, Hold Left Knee, Hold Right Ankle, Hold Left Ankle
+Wait until turnframe 2595
+Hold Left Wrist, Hold Right Glute, Hold Right Hip, Extend Right Knee, Relax Right Ankle
+Wait until turnframe 2596
+Hold Left Pec, Relax Left Shoulder, Hold Right Glute, Hold Left Glute, Hold Right Hip, Relax Right Knee
+Wait until turnframe 2598
+Relax Left Shoulder
+Wait until turnframe 2602
+Contract Neck, Hold Chest, Right Bend Lumbar, Contract Abs, Extend Right Pec, Raise Right Shoulder, Contract Left Pec, Raise Left Shoulder, Extend Right Glute, Hold Left Glute, Extend Right Hip, Relax Right Knee, Relax Left Knee, Hold Right Ankle, Contract Left Ankle
+Wait until turnframe 2607
+Hold Lumbar, Extend Right Glute, Hold Left Glute, Extend Right Hip, Contract Left Hip, Hold Right Knee, Relax Left Knee, Relax Right Ankle
+Wait until turnframe 2612
+Right Bend Lumbar, Hold Abs, Relax Right Shoulder, Hold Right Elbow, Contract Right Glute, Hold Left Glute, Contract Right Hip, Contract Left Hip, Hold Right Knee, Contract Right Ankle
+Wait until turnframe 2613
+Contract Right Glute, Relax Right Knee, Contract Left Knee
+Wait until turnframe 2616
+Contract Right Glute, Hold Left Glute, Contract Left Hip, Relax Right Knee, Contract Left Knee
+Wait until turnframe 2621
+Contract Neck, Left Rotate Chest, Left Bend Lumbar, Contract Left Pec, Hold Left Shoulder, Relax Left Elbow, Relax Left Wrist, Contract Right Glute, Contract Left Glute, Extend Left Hip, Extend Right Knee, Relax Left Knee, Contract Right Ankle
+Wait until turnframe 2636
+Right Bend Lumbar, Contract Right Pec, Raise Right Shoulder, Extend Left Pec, Lower Left Shoulder, Extend Right Glute, Extend Left Glute, Extend Right Hip, Hold Left Hip, Contract Right Knee, Relax Left Knee
+Wait until turnframe 2647
+Relax Chest, Right Bend Lumbar, Hold Right Pec, Hold Right Shoulder, Contract Right Elbow, Hold Left Pec, Relax Right Hip, Hold Left Hip, Relax Right Knee, Hold Left Knee, Relax Left Ankle
+Wait until turnframe 2649
+Relax Chest, Right Bend Lumbar, Extend Abs, Relax Right Pec, Hold Right Elbow, Extend Left Pec, Hold Left Shoulder, Hold Left Elbow, Extend Left Wrist, Extend Right Hip, Extend Left Hip, Hold Left Knee
+Wait until turnframe 2659
+Hold Lumbar, Hold Right Hip, Hold Right Knee, Extend Right Ankle
+Wait until turnframe 2674
+Hold Chest, Contract Right Pec, Relax Right Elbow, Contract Left Pec, Relax Left Shoulder, Contract Right Glute, Hold Left Glute, Contract Left Hip, Hold Left Knee
+Wait until turnframe 2689
+Hold Right Pec, Hold Left Hip
+Wait until turnframe 2699
+Hold Chest, Left Bend Lumbar, Extend Abs, Extend Right Pec, Relax Right Elbow, Extend Left Pec, Hold Left Shoulder, Extend Left Elbow, Hold Right Glute, Extend Left Glute, Contract Right Hip, Hold Left Hip, Hold Right Knee, Relax Left Knee, Contract Right Ankle, Extend Left Ankle
+Wait until turnframe 2712
+Left Rotate Chest, Hold Right Glute, Contract Left Glute, Extend Left Hip, Relax Right Knee, Extend Left Knee
+Wait until turnframe 2718
+Contract Right Pec, Raise Right Shoulder, Relax Left Shoulder, Extend Right Glute, Hold Left Glute, Relax Left Hip, Relax Left Knee
+Wait until turnframe 2724
+Hold Left Glute, Relax Right Knee, Relax Left Knee, Relax Left Ankle
+Wait until turnframe 2729
+Relax Right Shoulder, Raise Left Shoulder, Extend Left Glute, Hold Left Hip, Contract Right Knee, Extend Left Knee, Hold Left Ankle
+Wait until turnframe 2743
+Relax Chest, Right Bend Lumbar, Raise Right Shoulder, Contract Left Pec, Relax Left Shoulder, Relax Left Elbow, Extend Left Glute, Extend Right Hip, Hold Left Hip, Hold Right Knee, Extend Right Ankle, Hold Left Ankle
+Wait until turnframe 2763
+Hold Neck, Hold Chest, Hold Lumbar, Hold Abs, Hold Right Pec, Hold Right Shoulder, Relax Right Elbow, Contract Left Pec, Raise Left Shoulder, Hold Left Elbow, Hold Right Wrist, Hold Left Wrist, Relax Right Glute, Extend Left Glute, Extend Right Hip, Extend Left Hip, Hold Right Knee, Relax Left Knee, Hold Right Ankle, Hold Left Ankle
+Wait until turnframe 2773
+Hold Chest, Extend Right Pec, Relax Right Shoulder
+Wait until turnframe 2783
+Left Rotate Chest, Right Bend Lumbar, Extend Abs, Hold Right Elbow, Relax Left Shoulder, Extend Left Elbow, Hold Right Glute, Contract Left Glute, Extend Right Hip, Extend Left Hip, Relax Right Knee, Contract Left Knee
+Wait until turnframe 2788
+Left Rotate Chest, Right Bend Lumbar, Lower Right Shoulder, Extend Right Elbow, Raise Left Shoulder, Relax Left Elbow, Hold Right Glute, Contract Right Hip, Extend Left Hip, Hold Right Knee, Contract Left Knee
+Wait until turnframe 2798
+Left Rotate Chest, Right Bend Lumbar, Extend Left Pec, Relax Right Glute, Relax Left Glute, Extend Left Hip, Extend Right Knee, Contract Right Ankle, Contract Left Ankle
+Wait until turnframe 2802
+Left Rotate Chest, Right Bend Lumbar, Extend Right Pec, Hold Right Shoulder, Hold Right Elbow, Contract Left Pec, Relax Left Shoulder, Relax Left Elbow, Extend Right Wrist, Contract Right Glute, Contract Left Glute, Contract Right Hip, Contract Left Hip, Hold Right Knee, Contract Left Knee, Contract Right Ankle, Extend Left Ankle
+Wait until turnframe 2805
+Hold Chest, Right Bend Lumbar, Extend Abs, Contract Right Pec, Relax Right Shoulder, Contract Right Elbow, Extend Left Pec, Relax Left Shoulder, Extend Left Elbow, Contract Right Glute, Extend Left Glute, Extend Right Hip, Contract Left Hip, Hold Right Knee, Extend Left Knee, Relax Right Ankle, Extend Left Ankle
+Wait until turnframe 2810
+Extend Neck, Left Rotate Chest, Right Bend Lumbar, Contract Right Pec, Contract Right Elbow, Relax Left Shoulder, Extend Left Wrist, Contract Right Glute, Extend Left Glute, Contract Right Hip, Hold Left Hip, Contract Right Knee, Extend Right Ankle
+Wait until turnframe 2817
+Left Bend Lumbar, Hold Left Shoulder, Contract Right Glute, Hold Left Glute, Relax Right Knee
+Wait until turnframe 2827
+Hold Chest, Hold Right Pec, Hold Right Shoulder, Hold Left Pec, Hold Left Elbow, Hold Right Wrist, Extend Right Glute, Extend Left Glute, Hold Right Hip, Hold Left Hip, Hold Right Knee, Extend Left Knee
+Wait until turnframe 2837
+Left Rotate Chest, Extend Right Pec, Contract Left Pec, Hold Right Hip, Extend Left Hip, Relax Right Knee, Contract Left Knee
+Wait until turnframe 2844
+Hold Chest, Contract Right Pec, Raise Right Shoulder, Relax Right Elbow, Relax Left Shoulder, Extend Right Glute, Relax Right Hip, Hold Left Hip, Relax Right Knee, Contract Left Knee, Contract Right Ankle
+Wait until turnframe 2851
+Contract Abs, Extend Left Pec, Raise Left Shoulder, Extend Left Glute, Contract Right Hip, Contract Left Hip, Relax Left Knee, Contract Left Ankle
+Wait until turnframe 2861
+Relax Lumbar, Hold Right Elbow, Hold Left Pec, Hold Left Shoulder, Hold Left Elbow, Hold Left Glute, Hold Right Knee, Hold Left Knee
+Wait until turnframe 2871
+Relax Chest, Hold Lumbar, Relax Abs, Extend Right Pec, Relax Right Shoulder, Relax Left Shoulder, Hold Right Glute, Hold Left Glute, Extend Right Hip, Contract Left Hip, Relax Right Knee, Relax Left Knee, Extend Right Ankle
+Wait until turnframe 2881
+Hold Chest, Hold Right Pec, Extend Left Pec, Contract Left Glute, Extend Right Hip, Relax Right Knee
+Wait until turnframe 2891
+Left Bend Lumbar, Hold Abs, Hold Right Pec, Relax Right Elbow, Hold Right Glute, Hold Left Glute, Contract Right Hip, Extend Left Hip, Extend Right Knee, Contract Left Knee, Extend Left Ankle
+Wait until turnframe 2901
+Hold Lumbar, Hold Right Knee, Relax Left Knee
+Wait until turnframe 2911
+Extend Neck, Hold Chest, Hold Lumbar, Hold Abs, Hold Right Pec, Raise Right Shoulder, Relax Right Elbow, Extend Left Pec, Relax Left Shoulder, Hold Left Elbow, Hold Right Wrist, Extend Left Wrist, Extend Right Glute, Hold Left Glute, Contract Right Hip, Extend Left Hip, Relax Right Knee, Hold Left Knee, Hold Right Ankle, Extend Left Ankle
+Wait until turnframe 2921
+Extend Right Pec, Relax Right Shoulder, Relax Right Elbow, Contract Left Pec, Extend Right Hip, Contract Left Hip, Relax Left Knee
+Wait until turnframe 2931
+Relax Left Shoulder, Contract Right Glute, Hold Right Knee, Hold Left Knee
+Wait until turnframe 2941
+Lower Right Shoulder, Raise Left Shoulder, Contract Left Ankle
+Wait until turnframe 2951
+Relax Right Shoulder, Relax Left Shoulder, Contract Left Glute, Contract Left Hip, Relax Left Knee
+Wait until turnframe 2961
+Extend Right Glute, Extend Left Glute, Relax Right Hip, Extend Left Hip
+Wait until turnframe 2971
+Relax Lumbar, Contract Right Pec, Raise Right Shoulder, Extend Left Pec, Contract Left Glute, Contract Right Hip
+Wait until turnframe 2981
+Relax Right Pec, Relax Right Shoulder, Relax Left Pec, Hold Right Glute, Hold Left Glute, Hold Right Hip, Extend Left Hip, Relax Left Knee
+Wait until turnframe 2991
+Extend Right Glute, Relax Left Glute, Contract Right Hip, Extend Left Hip, Extend Left Knee
+Wait until turnframe 3001
+Contract Left Hip, Hold Left Knee
+Wait until turnframe 3011
+Lower Left Shoulder, Relax Right Knee
+Wait until turnframe 3021
+Extend Right Pec, Relax Left Shoulder, Hold Right Glute, Hold Left Glute, Extend Right Hip, Hold Right Knee
+Wait until turnframe 3031
+Left Bend Lumbar, Extend Right Elbow, Contract Left Pec, Hold Left Hip, Relax Left Knee
+Wait until turnframe 3041
+Hold Left Shoulder, Extend Left Hip
+Wait until turnframe 3051
+Hold Neck, Hold Chest, Left Bend Lumbar, Hold Abs, Hold Right Pec, Hold Right Shoulder, Hold Right Elbow, Hold Left Pec, Hold Left Shoulder, Hold Left Elbow, Hold Right Wrist, Hold Left Wrist, Contract Right Glute, Hold Left Glute, Hold Right Hip, Hold Left Hip, Hold Right Knee, Hold Left Knee, Hold Right Ankle, Hold Left Ankle
+Wait until turnframe 3061
+Contract Left Glute, Contract Right Hip, Relax Right Knee
+Wait until turnframe 3071
+Hold Neck, Hold Chest, Hold Lumbar, Extend Abs, Hold Right Pec, Hold Right Shoulder, Relax Right Elbow, Hold Left Pec, Hold Left Shoulder, Hold Left Elbow, Hold Right Wrist, Hold Left Wrist, Extend Right Glute, Hold Left Glute, Contract Right Hip, Hold Left Hip, Hold Right Knee, Hold Left Knee, Hold Right Ankle, Extend Left Ankle
+Wait until turnframe 3081
+Hold Neck, Left Rotate Chest, Hold Lumbar, Hold Abs, Hold Right Pec, Hold Right Shoulder, Hold Right Elbow, Contract Left Pec, Hold Left Shoulder, Hold Left Elbow, Hold Right Wrist, Hold Left Wrist, Hold Right Glute, Hold Left Glute, Hold Right Hip, Hold Left Hip, Hold Right Knee, Hold Left Knee, Hold Right Ankle, Hold Left Ankle
+Wait until turnframe 3091
+Hold Neck, Hold Chest, Hold Lumbar, Hold Abs, Hold Right Pec, Hold Right Shoulder, Hold Right Elbow, Hold Left Pec, Hold Left Shoulder, Hold Left Elbow, Hold Right Wrist, Hold Left Wrist, Hold Right Glute, Hold Left Glute, Hold Right Hip, Contract Left Hip, Hold Right Knee, Hold Left Knee, Hold Right Ankle, Hold Left Ankle
+Wait until turnframe 3098
+Relax Left Shoulder, Hold Left Hip

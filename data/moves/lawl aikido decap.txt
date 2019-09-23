@@ -1,0 +1,10 @@
+Left Rotate Chest, Right Bend Lumbar, Extend Right Pec, Lower Right Shoulder, Contract Right Elbow, Contract Left Pec, Contract Left Elbow, Extend Right Wrist, Contract Right Glute, Extend Right Hip, Hold Right Knee, Contract Left Knee, Hold Right Ankle
+Wait until turnframe 10
+Extend Right Elbow, Raise Left Shoulder, Contract Left Wrist, Extend Left Hip, Contract Right Knee, Extend Left Knee
+Wait until turnframe 30
+Hold Left Pec, Lower Left Shoulder, Extend Left Elbow, Contract Left Knee, Extend Left Ankle
+Wait until turnframe 50
+Left Rotate Chest, Contract Right Pec, Raise Right Shoulder, Contract Right Elbow, Contract Left Glute, Contract Left Hip, Extend Left Knee
+Wait until turnframe 80
+Lower Right Shoulder, Raise Left Shoulder, Extend Left Hip, Contract Left Knee, Contract Left Ankle
+Wait until turnframe 106
